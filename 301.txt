@@ -1,0 +1,3 @@
+/features/2014/02/03/free-resources-for-designers.html /freebies/2014/02/03/free-resources-for-designers.html
+/smileys /smileys/
+/features/2014/11/01/cloudcannon-direction-ftp-visual-editables.html /features/2014/11/12/cloudcannon-direction-ftp-visual-editables.html

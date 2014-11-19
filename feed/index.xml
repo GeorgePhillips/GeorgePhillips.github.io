@@ -1,0 +1,1805 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>cloudcannon.com</title>
+		<link>http://cloudcannon.com/</link>
+		<link href="http://cloudcannon.com/rss.xml" rel="self"/>
+		<link href="http://cloudcannon.com/"/>
+		<description>CloudCannon Blog</description>
+		<language>en-us</language>     
+		<pubDate>Tue, 18 Nov 2014 16:39:57 -0800</pubDate>
+		<lastBuildDate>Tue, 18 Nov 2014 16:39:57 -0800</lastBuildDate>
+
+		
+			<item>
+				<title>3 ways to improve your web design skills</title>
+				<link>http://cloudcannon.com/tutorials/2014/11/17/3-ways-to-improve-your-webdesign-skills.html</link>
+				<pubDate>Mon, 17 Nov 2014 00:00:00 -0800</pubDate>
+				<author>mike</author>
+				<guid>http://cloudcannon.com/tutorials/2014/11/17/3-ways-to-improve-your-webdesign-skills</guid>
+				<description>&lt;p&gt;Constant self improvement is one of my main philosophies in life. Getting just a little bit better at something every day is not only a way I improve myself professionally but I find it gives me a more fulfilling life.&lt;/p&gt;
+
+&lt;p&gt;While working as a freelancer, I found having a deep understanding of HTML, CSS and Javascript gave me a huge advantage because I could quickly go from a vision in my head to a live functioning website my client loved.&lt;/p&gt;
+
+&lt;p&gt;Here’s three easy ways you can work on your frontend web design skills:&lt;/p&gt;
+
+&lt;h2 id=&quot;online-courses&quot;&gt;1. Online courses&lt;/h2&gt;
+
+&lt;h4 id=&quot;codecademyhttpwwwcodecademycom&quot;&gt;&lt;a href=&quot;http://www.codecademy.com/&quot;&gt;Codecademy&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;I can’t recommend Codecademy enough. No matter your skill level there’s going to be something you can learn. Their tutorials range from an introduction to HTML/CSS to building your own interactive solar system using javascript. It’s so cool.&lt;/p&gt;
+
+&lt;p&gt;The tutorials have step-by-step instructions, a code editor and fake web browser so everything is in one place. There’s no need to leave your browser. What’s even better is that it’s completely free!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://codecademy.com&quot;&gt;&lt;img src=&quot;/img/blog/3-ways-to-improve-your-webdesign-skills/codecadmey.png&quot; alt=&quot;Codecademy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;treehousehttpteamtreehousecom&quot;&gt;&lt;a href=&quot;http://teamtreehouse.com/&quot;&gt;Treehouse&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;If you’re a visual learner you’ll love Treehouse. There are tutorials covering a huge range of web design topics to cater to any level. For each tutorial there’s a short professionally shot video, followed by a short quiz and an exercise that can be completed in the browser.&lt;/p&gt;
+
+&lt;p&gt;There’s a little more hand-holding here than on Codecademy so if you’re looking for something closer to a classroom environment, Treehouse is your best bet. Plans start at $25/month and there’s even a 14 day free trial available. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://teamtreehouse.com&quot;&gt;&lt;img src=&quot;/img/blog/3-ways-to-improve-your-webdesign-skills/treehouse.png&quot; alt=&quot;Treehouse&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;code-schoolhttpcodeschoolcom&quot;&gt;&lt;a href=&quot;http://codeschool.com&quot;&gt;Code School&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Code School has a similar format to Treehouse. There’s a short video followed by a coding exercise. Again, this workflow is fantastic because if you ever get stuck, you can always re watch the video to find the answer. There are free courses available and a monthly subscription of $29 to get full access.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://codeschool.com&quot;&gt;&lt;img src=&quot;/img/blog/3-ways-to-improve-your-webdesign-skills/codeschool.png&quot; alt=&quot;Code School&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;documentation&quot;&gt;2. Documentation&lt;/h2&gt;
+
+&lt;p&gt;When I need to quickly look up how to use css3 rounded corners or what attributes you can set on a form element, these documentation websites are my go to.&lt;/p&gt;
+
+&lt;h4 id=&quot;mdnhttpsdevelopermozillaorg&quot;&gt;&lt;a href=&quot;https://developer.mozilla.org/&quot;&gt;MDN&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Mozilla has a beautiful set of documentation for anything web. If I ever need to know what attributes a &amp;lt;video&amp;gt; tag has or the browser support for border-radius, this is my go to.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://developer.mozilla.org&quot;&gt;&lt;img src=&quot;/img/blog/3-ways-to-improve-your-webdesign-skills/mdn.png&quot; alt=&quot;MDN&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;w3schoolshttpw3schoolscom&quot;&gt;&lt;a href=&quot;http://w3schools.com&quot;&gt;W3Schools&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Similar to MDN, an in depth reference of everything HTML and CSS.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://w3schools.com&quot;&gt;&lt;img src=&quot;/img/blog/3-ways-to-improve-your-webdesign-skills/w3schools.png&quot; alt=&quot;W3 Schools&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;w3chttpwwww3org&quot;&gt;&lt;a href=&quot;http://www.w3.org/&quot;&gt;W3C&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;HTML and CSS specifications straight from the horses mouth. W3C sets the standards which guides the implementation in web browsers. The descriptions are usually technical and verbose so I typically prefer the other two websites but it can be a good reference if you’re using bleeding edge web technology. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.w3.org&quot;&gt;&lt;img src=&quot;/img/blog/3-ways-to-improve-your-webdesign-skills/w3c.png&quot; alt=&quot;W3C&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;work-on-projects&quot;&gt;3. Work on projects&lt;/h2&gt;
+&lt;p&gt;I find the best way of learning new web design skills is to have a project you can try new things out on. At CloudCannon we’re constantly creating small, seemingly pointless little projects as a way of trying new things out.&lt;/p&gt;
+
+&lt;p&gt;There’s our &lt;a href=&quot;http://solitaire.cloudvent.net/&quot;&gt;Solitaire app&lt;/a&gt; made completely in HTML, CSS and Javascript.
+&lt;a href=&quot;http://solitaire.cloudvent.net/&quot;&gt;&lt;img src=&quot;/img/blog/3-ways-to-improve-your-webdesign-skills/solitaire.png&quot; alt=&quot;solitaire&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cloudcannon.com/smileys/&quot;&gt;Smileys.js&lt;/a&gt; is our little way of making websites a happier place.
+&lt;a href=&quot;http://cloudcannon.com/smileys/&quot;&gt;&lt;img src=&quot;/img/blog/3-ways-to-improve-your-webdesign-skills/smiley.png&quot; alt=&quot;Smiley&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Even &lt;a href=&quot;http://cloudcannon.com&quot;&gt;CloudCannon&lt;/a&gt; started off as a bedroom project.
+&lt;a href=&quot;http://cloudcannon.com/&quot;&gt;&lt;img src=&quot;/img/blog/3-ways-to-improve-your-webdesign-skills/cloudcannon.png&quot; alt=&quot;CloudCannon&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My next project is to revamp my &lt;a href=&quot;http://mikeneumegen.com&quot;&gt;personal website&lt;/a&gt;. That moustache is long gone and I want to do something even cooler than eating an apple with html5 videos.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mikeneumegen.com&quot;&gt;&lt;img src=&quot;/img/blog/3-ways-to-improve-your-webdesign-skills/mikeneumegen.png&quot; alt=&quot;Mike Neumegen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Now it’s your turn! Get out there, work on your web design skills and build something cool. What can you create this weekend?&lt;/p&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>How Facebook content placeholder works</title>
+				<link>http://cloudcannon.com/deconstructions/2014/11/15/facebook-content-placeholder-deconstruction.html</link>
+				<pubDate>Sat, 15 Nov 2014 00:00:00 -0800</pubDate>
+				<author>george</author>
+				<guid>http://cloudcannon.com/deconstructions/2014/11/15/facebook-content-placeholder-deconstruction</guid>
+				<description>&lt;p&gt;This is the first post of my new blog series called Deconstructions. Showcasing cool things people are doing in web development and breaking them down step by step. My first target is a cool content placeholder from the most recent Facebook overhaul. Before your friend’s latest selfie or dog picture loads you may have noticed this nice bit of polish.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-it&quot;&gt;What is it?&lt;/h3&gt;
+&lt;p&gt;Straight to the point here it is. Below you can see my clone and my HTML (I changed a few things to make it easier to see):&lt;/p&gt;
+
+&lt;div class=&quot;timeline-wrapper&quot;&gt;
+	&lt;div class=&quot;timeline-item&quot;&gt;
+		&lt;div class=&quot;animated-background facebook&quot;&gt;
+			&lt;div class=&quot;background-masker header-top&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker header-left&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker header-right&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker header-bottom&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker subheader-left&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker subheader-right&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker subheader-bottom&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker content-top&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker content-first-end&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker content-second-line&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker content-second-end&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker content-third-line&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker content-third-end&quot;&gt;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;pre class=&quot;prettyprint linenums large&quot;&gt;
+&amp;lt;div class=&quot;timeline-wrapper&quot;&amp;gt;
+	&amp;lt;div class=&quot;timeline-item&quot;&amp;gt;
+		&amp;lt;div class=&quot;animated-background&quot;&amp;gt;
+			&amp;lt;div class=&quot;background-masker header-top&quot;&amp;gt;&amp;lt;/div&amp;gt;
+			&amp;lt;div class=&quot;background-masker header-left&quot;&amp;gt;&amp;lt;/div&amp;gt;
+			&amp;lt;div class=&quot;background-masker header-right&quot;&amp;gt;&amp;lt;/div&amp;gt;
+			&amp;lt;div class=&quot;background-masker header-bottom&quot;&amp;gt;&amp;lt;/div&amp;gt;
+			&amp;lt;div class=&quot;background-masker subheader-left&quot;&amp;gt;&amp;lt;/div&amp;gt;
+			&amp;lt;div class=&quot;background-masker subheader-right&quot;&amp;gt;&amp;lt;/div&amp;gt;
+			&amp;lt;div class=&quot;background-masker subheader-bottom&quot;&amp;gt;&amp;lt;/div&amp;gt;
+			&amp;lt;div class=&quot;background-masker content-top&quot;&amp;gt;&amp;lt;/div&amp;gt;
+			&amp;lt;div class=&quot;background-masker content-first-end&quot;&amp;gt;&amp;lt;/div&amp;gt;
+			&amp;lt;div class=&quot;background-masker content-second-line&quot;&amp;gt;&amp;lt;/div&amp;gt;
+			&amp;lt;div class=&quot;background-masker content-second-end&quot;&amp;gt;&amp;lt;/div&amp;gt;
+			&amp;lt;div class=&quot;background-masker content-third-line&quot;&amp;gt;&amp;lt;/div&amp;gt;
+			&amp;lt;div class=&quot;background-masker content-third-end&quot;&amp;gt;&amp;lt;/div&amp;gt;
+		&amp;lt;/div&amp;gt;
+	&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;As you can see the demo only contains three types on elements:&lt;/p&gt;
+
+&lt;h4 id=&quot;a-wrapper&quot;&gt;A Wrapper&lt;/h4&gt;
+&lt;p&gt;This is the easiest bit, it’s just a centered div to wrap the content. I chose to use the same colours as Facebook.&lt;/p&gt;
+
+&lt;div class=&quot;timeline-wrapper&quot;&gt;
+	&lt;div class=&quot;timeline-item&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;pre class=&quot;prettyprint linenums large&quot;&gt;
+.timeline-item {
+	background: #fff;
+	border: 1px solid;
+	border-color: #e5e6e9 #dfe0e4 #d0d1d5;
+	border-radius: 3px;
+	padding: 12px;
+
+	margin: 0 auto;
+	max-width: 472px;
+	min-height: 200px;
+}
+&lt;/pre&gt;
+
+&lt;h4 id=&quot;a-fancy-animated-background&quot;&gt;A Fancy Animated Background&lt;/h4&gt;
+&lt;p&gt;This is where the magic happens. It’s a box that is has a animated background and that background happens to be a CSS gradient.&lt;/p&gt;
+
+&lt;div class=&quot;timeline-wrapper&quot;&gt;
+	&lt;div class=&quot;timeline-item&quot;&gt;
+		&lt;div class=&quot;animated-background&quot;&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;pre class=&quot;prettyprint linenums large&quot;&gt;
+@keyframes placeHolderShimmer{
+	0%{
+		background-position: -468px 0
+	}
+	100%{
+		background-position: 468px 0
+	}
+}
+
+.animated-background {
+	animation-duration: 1s;
+	animation-fill-mode: forwards;
+	animation-iteration-count: infinite;
+	animation-name: placeHolderShimmer;
+	animation-timing-function: linear;
+	background: #f6f7f8;
+	background: linear-gradient(to right,  #eeeeee 8%,#dddddd 18%,#eeeeee 33%);
+	background-repeat: no-repeat;
+	background-size: 800px 104px;
+	height: 96px;
+	position: relative;
+}
+&lt;/pre&gt;
+
+&lt;h4 id=&quot;plenty-of-tiny-masking-blocks&quot;&gt;Plenty of Tiny Masking Blocks&lt;/h4&gt;
+&lt;p&gt;Without these the previous step just looks like a stupidly large progress bar. This gives the shape to the placeholder. It’s just lots of little white divs that sit on top so you can’t see the animation. This part gets messy fast. I have added some borders to this version to illustrate where the masks are placed (Try hovering on each block).&lt;/p&gt;
+
+&lt;div class=&quot;timeline-wrapper&quot;&gt;
+	&lt;div class=&quot;timeline-item&quot;&gt;
+		&lt;div class=&quot;animated-background outlined&quot;&gt;
+			&lt;div class=&quot;background-masker header-top&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker header-left&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker header-right&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker header-bottom&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker subheader-left&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker subheader-right&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker subheader-bottom&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker content-top&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker content-first-end&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker content-second-line&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker content-second-end&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker content-third-line&quot;&gt;&lt;/div&gt;
+			&lt;div class=&quot;background-masker content-third-end&quot;&gt;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;pre class=&quot;prettyprint linenums large&quot;&gt;
+.background-masker {
+	background: #fff;
+	position: absolute;
+}
+
+/* Every thing below this is just positioning */
+
+.background-masker.header-top,
+.background-masker.header-bottom,
+.background-masker.subheader-bottom {
+	top: 0;
+	left: 40px;
+	right: 0;
+	height: 10px;
+}
+
+.background-masker.header-left,
+.background-masker.subheader-left,
+.background-masker.header-right,
+.background-masker.subheader-right {
+	top: 10px;
+	left: 40px;
+	height: 8px;
+	width: 10px;
+}
+
+.background-masker.header-bottom {
+	top: 18px;
+	height: 6px;
+}
+
+.background-masker.subheader-left,
+.background-masker.subheader-right {
+	top: 24px;
+	height: 6px;
+}
+
+
+.background-masker.header-right,
+.background-masker.subheader-right {
+	width: auto;
+	left: 300px;
+	right: 0;
+}
+
+.background-masker.subheader-right {
+	left: 230px;
+}
+
+.background-masker.subheader-bottom {
+	top: 30px;
+	height: 10px;
+}
+
+.background-masker.content-top,
+.background-masker.content-second-line,
+.background-masker.content-third-line,
+.background-masker.content-second-end,
+.background-masker.content-third-end,
+.background-masker.content-first-end {
+	top: 40px;
+	left: 0;
+	right: 0;
+	height: 6px;
+}
+
+.background-masker.content-top {
+	height:20px;
+}
+
+.background-masker.content-first-end,
+.background-masker.content-second-end,
+.background-masker.content-third-end{
+	width: auto;
+	left: 380px;
+	right: 0;
+	top: 60px;
+	height: 8px;
+}
+
+.background-masker.content-second-line  {
+	top: 68px;
+}
+
+.background-masker.content-second-end {
+	left: 420px;
+	top: 74px;
+}
+
+.background-masker.content-third-line {
+	top: 82px;
+}
+
+.background-masker.content-third-end {
+	left: 300px;
+	top: 88px;
+}
+&lt;/pre&gt;
+
+&lt;h3 id=&quot;why-would-i-ever-use-this&quot;&gt;Why would I ever use this?&lt;/h3&gt;
+&lt;p&gt;We can’t always remove having to wait for information but we can make the wait feel shorter. By giving some indication of what is going on and giving visual stimulus the user feels immediately more comfortable and less likely to leave. This is exactly like putting a progress bar on a long action. Apart from the fact it’s some fancy polish, it’s great usability. I think this feature is better than your average loading symbol because it actually feels like the content is almost there. After a quick search I found &lt;a href=&quot;http://usabilitypost.com/2009/01/23/making-wait-times-feel-shorter/&quot;&gt;this article&lt;/a&gt; which explains it quite well.&lt;/p&gt;
+
+&lt;h3 id=&quot;thats-it&quot;&gt;That’s it&lt;/h3&gt;
+&lt;p&gt;I have been looking for a situation I can use a loader like this but sadly one has not come up yet. I may use it for the upcoming GitHub integration while I am loading the list of repositories. If you found this useful or have any questions feel free to comment below. I am going to try to do one of these a week so if you see something you want deconstructed let me know.&lt;/p&gt;
+
+&lt;p&gt;Note: I used unprefixed CSS in the code examples to keep it clean. You can use &lt;a href=&quot;http://prefixr.cloudvent.net/&quot; target=&quot;_blank&quot;&gt;Our CSS Prefixer&lt;/a&gt; to get cross a cross browser version.&lt;/p&gt;
+
+&lt;style&gt;
+	@-webkit-keyframes placeHolderShimmer{
+		0%{
+			background-position:-468px 0
+		}
+		100%{
+			background-position:468px 0
+		}
+	}
+
+	@keyframes placeHolderShimmer{
+		0%{
+			background-position:-468px 0
+		}
+		100%{
+			background-position:468px 0
+		}
+	}
+
+	.timeline-wrapper {
+		background-color: #e9eaed;
+		color: #141823;
+		padding: 20px;
+		border: 1px solid #ccc;
+	}
+
+	.timeline-item {
+		background: #fff;
+		border: 1px solid;
+		border-color: #e5e6e9 #dfe0e4 #d0d1d5;
+		border-radius: 3px;
+		padding: 12px;
+
+		margin: 0 auto;
+		max-width: 472px;
+		min-height: 200px;
+	}
+
+	.animated-background {
+		-webkit-animation-duration: 1s;
+		animation-duration: 1s;
+		-webkit-animation-fill-mode: forwards;
+		animation-fill-mode: forwards;
+		-webkit-animation-iteration-count: infinite;
+		animation-iteration-count: infinite;
+		-webkit-animation-name: placeHolderShimmer;
+		animation-name: placeHolderShimmer;
+		-webkit-animation-timing-function: linear;
+		animation-timing-function: linear;
+		background: #f6f7f8;
+		background: #eeeeee;
+		background: -webkit-gradient(linear, left top, right top, color-stop(8%, #eeeeee), color-stop(18%, #dddddd), color-stop(33%, #eeeeee));
+		background: -webkit-linear-gradient(left, #eeeeee 8%, #dddddd 18%, #eeeeee 33%);
+		background: linear-gradient(to right,  #eeeeee 8%,#dddddd 18%,#eeeeee 33%);
+		-webkit-background-size: 800px 104px;
+		background-size: 800px 104px;
+		height: 96px;
+		position: relative;
+	}
+
+	.background-masker {
+		background: #fff;
+		position: absolute;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+
+	.outlined .background-masker {
+		border: 1px solid #ddd;
+	}
+
+
+	.outlined:hover .background-masker {
+		border: none;
+	}
+
+	.outlined:hover .background-masker:hover {
+		border: 1px solid #ccc;
+		z-index: 1;
+	}
+
+	.background-masker.header-top,
+	.background-masker.header-bottom,
+	.background-masker.subheader-bottom {
+		top: 0;
+		left: 40px;
+		right: 0;
+		height: 10px;
+	}
+
+	.background-masker.header-left,
+	.background-masker.subheader-left,
+	.background-masker.header-right,
+	.background-masker.subheader-right {
+		top: 10px;
+		left: 40px;
+		height: 8px;
+		width: 10px;
+	}
+
+	.background-masker.header-bottom {
+		top: 18px;
+		height: 6px;
+	}
+
+	.background-masker.subheader-left,
+	.background-masker.subheader-right {
+		top: 24px;
+		height: 6px;
+	}
+
+
+	.background-masker.header-right,
+	.background-masker.subheader-right {
+		width: auto;
+		left: 300px;
+		right: 0;
+	}
+
+	.background-masker.subheader-right {
+		left: 230px;
+	}
+
+	.background-masker.subheader-bottom {
+		top: 30px;
+		height: 10px;
+	}
+
+	.background-masker.content-top,
+	.background-masker.content-second-line,
+	.background-masker.content-third-line,
+	.background-masker.content-second-end,
+	.background-masker.content-third-end,
+	.background-masker.content-first-end {
+		top: 40px;
+		left: 0;
+		right: 0;
+		height: 6px;
+	}
+
+	.background-masker.content-top {
+		height:20px;
+	}
+
+	.background-masker.content-first-end,
+	.background-masker.content-second-end,
+	.background-masker.content-third-end{
+		width: auto;
+		left: 380px;
+		right: 0;
+		top: 60px;
+		height: 8px;
+	}
+
+	.background-masker.content-second-line  {
+		top: 68px;
+	}
+
+	.background-masker.content-second-end {
+		left: 420px;
+		top: 74px;
+	}
+
+	.background-masker.content-third-line {
+		top: 82px;
+	}
+
+	.background-masker.content-third-end {
+		left: 300px;
+		top: 88px;
+	}
+&lt;/style&gt;
+
+</description>
+			</item>
+		
+			<item>
+				<title>The big update. Two months of major feature releases and company direction to cover!</title>
+				<link>http://cloudcannon.com/features/2014/11/12/CloudCannon-direction-FTP-visual-editables.html</link>
+				<pubDate>Wed, 12 Nov 2014 00:00:00 -0800</pubDate>
+				<author>sam</author>
+				<guid>http://cloudcannon.com/features/2014/11/12/CloudCannon-direction-FTP-visual-editables</guid>
+				<description>&lt;!-- summary photo and summary here --&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/cloudcannon-direction-FTP-visual-editables/ftp-header.png&quot; alt=&quot;CloudCannon syncing with FTP&quot; title=&quot;FTP Syncing with CloudCannon. It's a game changer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We recently released four major product updates, (including FTP support!), &lt;a href=&quot;http://techcrunch.com/2014/10/20/cloudcannon-raises-500k-to-make-designing-static-websites-simpler/&quot;&gt;publicly announced our fundraising round and partnership with Rightside&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We have a clear direction on where we are going with the company and the product. Read on to learn how these changes are going to make it easier get your static websites live and editable.&lt;/p&gt;
+
+&lt;!-- excerpt stop --&gt;
+
+&lt;p&gt;The last two months have been crazy for CloudCannon.&lt;/p&gt;
+
+&lt;p&gt;We released four major product updates, &lt;a href=&quot;http://techcrunch.com/2014/10/20/cloudcannon-raises-500k-to-make-designing-static-websites-simpler/&quot;&gt;publicly announced our fundraising round and partnership with Rightside&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We have a clear direction on where we are going with the company and the product. Today I’m going to cover our company direction and then we’ll take a look at how they’ve influenced the product feature updates.&lt;/p&gt;
+
+&lt;h3 id=&quot;cloudcannons-direction&quot;&gt;CloudCannon’s direction&lt;/h3&gt;
+
+&lt;p&gt;The team at CloudCannon has been looking hard at what we’re doing, where we’re going, and how we can make a difference to how people develop websites. Our vision is clear:&lt;/p&gt;
+
+&lt;h4 id=&quot;cloudcannon-is-an-editing-company-not-a-hosting-company&quot;&gt;CloudCannon is an editing company, not a hosting company.&lt;/h4&gt;
+
+&lt;p&gt;We found that people were in love with the workflow of CloudCannon which included hosting. But what if we could unleash that workflow allowing you to use any hosting you choose. We’re super excited about FTP support because it allows us to add the CloudCannon editing experience to websites that are hosted elsewhere. Which brings me to my next point…&lt;/p&gt;
+
+&lt;h4 id=&quot;we-want-to-grow-by-partnering&quot;&gt;We want to grow by partnering.&lt;/h4&gt;
+
+&lt;p&gt;Our focus is on a great editing experience and empowering you to work the way you want. As part of that we want to partner with services who are focused on simplifying other areas of the website experience. We have started with domain registration to make that really easy but we want to make everything as seamless. Whether it’s eCommerce, website building or email newsletters we want to work together to create a better world for websites.&lt;/p&gt;
+
+&lt;h4 id=&quot;shift-in-pricing-to-match&quot;&gt;Shift in pricing to match&lt;/h4&gt;
+&lt;p&gt;We used to have a pretty extensive free offering. You could make a website and basically have it live on the web with all the trimmings - the only thing that didn’t work was that it didn’t have a custom domain.&lt;/p&gt;
+
+&lt;p&gt;When we thought about it, adding a custom domain is a pretty arbitrary pay wall. That workflow was also more of a demo of what it’s like to &lt;em&gt;host&lt;/em&gt; a website, which caused confusion about what CloudCannon is about.&lt;/p&gt;
+
+&lt;p&gt;So we’ve changed the way free works; free focuses on editing. A website on our free plan is like a private sandbox for your changes.&lt;/p&gt;
+
+&lt;p&gt;In free websites you can add your files any way you want whether that’s with a storage provider(FTP or Dropbox) or just drag and drop. You can share and tweak the website as much as you want. When you are ready to push changes live to your website you simply upgrade to be Published, which is just $9 a month.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;product-feature-update&quot;&gt;Product feature update&lt;/h3&gt;
+
+&lt;h4 id=&quot;ftp-is-here-and-its-awesome&quot;&gt;FTP is here and it’s awesome!&lt;/h4&gt;
+
+&lt;p&gt;As mentioned above FTP support is an exciting feature for CloudCannon.&lt;/p&gt;
+
+&lt;p&gt;FTP means you can look after your own website hosting - supercharging, maintaining and SSL’ing it as you wish - but still get the awesome CloudCannon editing experience.&lt;/p&gt;
+
+&lt;p&gt;We have made it just the same as using Dropbox. When you connect your FTP we will pull out a copy and keep in sync. Any changes that you make we will publish right back to your FTP. You can keep working the way you were before CloudCannon only now you have a great editor.&lt;/p&gt;
+
+&lt;!-- 
+	Every time you wish to make an edit, we'll suck your website out of your host via FTP, present it to you in the CloudCannon interface to make changes, and then save it all back to your host via FTP again. 
+--&gt;
+
+&lt;p&gt;Linking your hosting FTP to your website is as simple as selecting it under the ‘Storage Provider’ options…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/cloudcannon-direction-FTP-visual-editables/FTP-Highlighted.png&quot; alt=&quot;FTP selectionn&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;…then filling out your FTP server details. You’ll need to get these from your hosting provider but you’ll only have to enter them once :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/cloudcannon-direction-FTP-visual-editables/FTP-details.png&quot; alt=&quot;FTP detail image&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;interface-changes&quot;&gt;Interface changes&lt;/h4&gt;
+
+&lt;p&gt;The most visually obvious change recently has been the menu bar - it now sits on the left hand side rather than across the top and shall henceforth be known as the sidebar.&lt;/p&gt;
+
+&lt;p&gt;This new positioning was a design decision to maximize the available screen real estate for editing and viewing your website.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/cloudcannon-direction-FTP-visual-editables/sidebar.png&quot; alt=&quot;Sidebar positioning&quot; title=&quot;Menu bar has moved from top to leftside &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The tabs you are used to along the top haven’t disappeared they’ve simply moved and been replaced by a set of icons George designed. Mousing over them still brings up their full names.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/cloudcannon-direction-FTP-visual-editables/mouseover-for-menu-detail.png&quot; alt=&quot;Sidebar icon mouseover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The one thing that has stayed along the top of the screen is the new Breadcrumbs in the file browser. You won’t get lost now and you can navigate back faster by clicking directly on the name of previous folders. Along with that the browser gets sexy new retina icons so it looks nice and crisp regardless of the device.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/cloudcannon-direction-FTP-visual-editables/breadcrumbs.png&quot; alt=&quot;Breadcrumbs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;** As a sneaky plus for our &lt;a href=&quot;/jekyll&quot;&gt;Jekyll Beta&lt;/a&gt; users I’ve made you a sexy special icon for editing Jekyll-style.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/cloudcannon-direction-FTP-visual-editables/jekyll-icon.png&quot; alt=&quot;Jekyll view icon&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;editing-experience---incl-adding-editable-regions-visually&quot;&gt;Editing experience - incl. adding editable regions visually!&lt;/h4&gt;
+
+&lt;p&gt;A significant piece of functionality added is - you can now add and remove editable regions visually.&lt;/p&gt;
+
+&lt;p&gt;To do this click the following button.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/cloudcannon-direction-FTP-visual-editables/add-editables-button.png&quot; alt=&quot;Add editables button&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then select the regions you want to be editable.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/cloudcannon-direction-FTP-visual-editables/adding-editables.png&quot; alt=&quot;Adding editables&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can then save them by clicking the disk.&lt;/p&gt;
+
+&lt;h4 id=&quot;seamless-switching-and-more-editables&quot;&gt;Seamless switching and more editables&lt;/h4&gt;
+
+&lt;p&gt;It was quite annoying having to save between visual and code views in the editor. So now you can now switch between adding editables, editing visually, and the code view without saving. You can see exactly whats going only looking at the HTML that is changing. Just remember to save changes before you leave the page entirely.&lt;/p&gt;
+
+&lt;p&gt;On top of that the editor is even better. We added another level of editing. You can now make “a”, “span”, “small”, “strong”, “em”, “i”, “b”, “sub”, “sup”, “li”, “dd”, “dt”, and “td” elements editable. These elements are span editables; this means that only the text can be updated. &lt;/p&gt;
+
+&lt;h4 id=&quot;other-things-weve-done&quot;&gt;Other things we’ve done&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Saving is way faster - you should notice that saving through the interface is much faster. We rebuilt some of our architecture and managed to speed it up massively. Enjoy!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A new payment system is in place. We over hauled all those older interfaces and gave a fresh CloudCannon feel to make it easier to manage everything around payments.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Additional file types - these have been requested by users and we’re happy to deliver:
+  .ai, .7z, .doc, .docx, .bmp, .csv, .eps, .svgz, .xls, .xlsx, .yaml, .rar, .gz, .text, .rss,
+  .markdown, .mdown, .mkdn, .md, .mkd, .mdwn, .mdtxt, .mdtext,&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;General bug fixes - thanks for pushing through support tickets.&lt;/p&gt;
+
+&lt;p&gt;Sam&lt;/p&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>Turn ANY template or theme into a CMS</title>
+				<link>http://cloudcannon.com/tutorials/2014/09/01/turn-any-template-or-theme-into-a-cms.html</link>
+				<pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
+				<author>sam</author>
+				<guid>http://cloudcannon.com/tutorials/2014/09/01/turn-any-template-or-theme-into-a-cms</guid>
+				<description>&lt;!-- summary photo and summary here --&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/template-tutorial/Using-HTML-templates-and-themes.png&quot; alt=&quot;Using Templates and Themes with CloudCannon&quot; title=&quot;Using Templates and Themes with CloudCannon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;CloudCannon makes it REALLY easy to get any HTML template or theme live and client editable.&lt;/p&gt;
+
+&lt;p&gt;We shot a video to show you exactly how in less than 4 minutes.&lt;/p&gt;
+
+&lt;!-- excerpt stop --&gt;
+
+&lt;p&gt;CloudCannon is powerful enough and versatile enough to add CMS capability to any custom website built in HTML and CSS.&lt;/p&gt;
+
+&lt;p&gt;But just because you CAN bring fully custom websites to CloudCannon doesn’t mean you have to.&lt;/p&gt;
+
+&lt;p&gt;You can bring any HTML template or theme on the web.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://startbootstrap.com/&quot;&gt;Start Bootstrap&lt;/a&gt;? Yessir.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://themeforest.net/category/site-templates&quot;&gt;Theme Forest&lt;/a&gt;? Yup.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.templatemonster.com/website-templates.php&quot;&gt;Template Monster&lt;/a&gt;? Yes please.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://html5up.net/&quot;&gt;HTML5 Up&lt;/a&gt;? Oh yea.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://creativemarket.com/templates/websites&quot;&gt;Creative Market&lt;/a&gt;? C’mon how many times I gotta say it? - YES.&lt;/p&gt;
+
+&lt;p&gt;In fact it’s so easy to bring a template to CloudCannon AND make it updatable that I put this real time video together to show you how to do it in less than 4 minutes:&lt;/p&gt;
+
+&lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;//www.youtube.com/embed/8mtMXzSdnCw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;if-youd-rather-read-heres-the-steps&quot;&gt;If you’d rather read, here’s the steps:&lt;/h3&gt;
+
+&lt;p&gt;I signed up for CloudCannon… &lt;strong&gt;[0:23]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/template-tutorial/Templating_1.png&quot; alt=&quot;CloudCannon sign up&quot; title=&quot;CloudCannon sign up&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;…created a new site… &lt;strong&gt;[0:30]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/template-tutorial/Templating_2.png&quot; alt=&quot;New site&quot; title=&quot;Creating a new site&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;…that has a folder now ready to receive my files. &lt;strong&gt;[0:47]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/template-tutorial/Templating_3.png&quot; alt=&quot;Site ready for files&quot; title=&quot;Site ready for files&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then I headed over to Start Bootstrap and looked for their most popular templates… &lt;strong&gt;[0:55]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/template-tutorial/Templating_4.png&quot; alt=&quot;Start Bootstrap&quot; title=&quot;Finding popular templates on Start Bootstrap&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;…and picked ‘Grayscale’. &lt;strong&gt;[1:02]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/template-tutorial/Templating_5.png&quot; alt=&quot;Selecting 'Grayscale' template&quot; title=&quot;Selecting Grayscale template&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I downloaded and unzipped the files… &lt;strong&gt;[1:12]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/template-tutorial/Templating_6.png&quot; alt=&quot;Unzipped template files&quot; title=&quot;Unzipped template files&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;…then dragged and dropped those files into CloudCannon. &lt;strong&gt;[1:19]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/template-tutorial/Templating_7.png&quot; alt=&quot;Dragging and dropping files into CloudCannon&quot; title=&quot;Dragging and dropping files into CloudCannon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When it was uploaded I opened up the Index file using the online editor… &lt;strong&gt;[2:05]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/template-tutorial/Templating_8.png&quot; alt=&quot;Open Index in online editor&quot; title=&quot;Open Index in online editor&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;…and made all the copy on the front page editable by adding class=”editable”. &lt;strong&gt;[2:33]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/template-tutorial/Templating_9.png&quot; alt=&quot;Making text elements editable&quot; title=&quot;Making text elements editable&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then I setup a password so that a client can gain access. &lt;strong&gt;[2:48]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/template-tutorial/Templating_10.png&quot; alt=&quot;Client access password&quot; title=&quot;Client access password&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I can see that all that juicy work is live on the web! &lt;strong&gt;[2:53]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/template-tutorial/Templating_11.png&quot; alt=&quot;Site is live!&quot; title=&quot;Site is live!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I can also sign in to the client editor by adding “/update” to the site address… &lt;strong&gt;[3:03]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/template-tutorial/Templating_12.png&quot; alt=&quot;Client editor sign in&quot; title=&quot;Client editor sign in&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;…and make some changes. &lt;strong&gt;[3:20]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/template-tutorial/Templating_13.png&quot; alt=&quot;Updating the site copy&quot; title=&quot;Updating the site copy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once I hit save I can leave the client editor and see that the changes are now on the live site. &lt;strong&gt;[3:40]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/template-tutorial/Templating_14.png&quot; alt=&quot;Client updates are now live&quot; title=&quot;Client updates are now live&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bringing templates to CloudCannon is a great way to get websites turned around for clients really REALLY quickly, while still giving them all the power of a CMS and the ease of editing that CloudCannon allows.&lt;/p&gt;
+
+&lt;p&gt;What’s more exciting is that if you bring a template and you want to start adapting it, you can see your changes live in the browser just by saving. Awesome huh!&lt;/p&gt;
+
+&lt;p&gt;If you’ve got any work you’re proud of on CloudCannon that started from template reach out to us and tell us to give it a look. We might just have to rave about it.&lt;/p&gt;
+
+</description>
+			</item>
+		
+			<item>
+				<title>Designer Spotlight - Jack Ewing & Seb Petravic</title>
+				<link>http://cloudcannon.com/interview/2014/08/28/designer-spotlight-jack-ewing-and-seb-petravic.html</link>
+				<pubDate>Thu, 28 Aug 2014 00:00:00 -0700</pubDate>
+				<author>sam</author>
+				<guid>http://cloudcannon.com/interview/2014/08/28/designer-spotlight-jack-ewing-and-seb-petravic</guid>
+				<description>&lt;p&gt;&lt;img src=&quot;/img/blog/ds-jack-ewing-and-seb-petravic/Seb_Jack.jpg&quot; alt=&quot;Jack &amp;amp; Seb&quot; title=&quot;Jack Ewing &amp;amp; Seb Petravic of Glassjar&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h4 id=&quot;first-off-we-want-everything-we-do-to-look-good-but-i-guess-the-main-purpose-of-the-page-is-to-visually-explain-what-glassjar-does-in-a-simple-and-effective-way-&quot;&gt;” First off we want everything we do to look good. But I guess the main purpose of the page is to visually explain what Glassjar does in a simple and effective way. “&lt;/h4&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Jack Ewing and Seb Petravic are the front-end-dev/design combo powering group finance startup &lt;a href=&quot;https://glassjar.co/&quot; title=&quot;Stay mates with your roommates!&quot;&gt;Glassjar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;They’re using CloudCannon to pump out landing pages that delight customers and allow the whole team to contribute.&lt;/p&gt;
+
+&lt;!-- excerpt stop --&gt;
+
+&lt;p&gt;Continuing our look at designers doing cool work on CloudCannon, we caught up with Jack Ewing and Sebastian Petravic, the front end dev &amp;amp; designer combo from group finance startup Glassjar.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/ds-jack-ewing-and-seb-petravic/Seb_Jack.jpg&quot; alt=&quot;Jack &amp;amp; Seb&quot; title=&quot;Jack Ewing &amp;amp; Seb Petravic of Glassjar&quot; /&gt;
+&lt;em&gt;Seb Petravic (left) and Jack Ewing of Glassjar&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;jack--seb-last-time-we-caught-up-lightning-labhttpwwwlightninglabconz-lightning-lab-website-accelerator-programme-was-wrapping-up-and-you-were-both-coming-on-board-glassjar-fulltime-you-were-just-starting-to-work-on-some-landing-page-strategy-whats-the-latest&quot;&gt;Jack &amp;amp; Seb, last time we caught up &lt;a href=&quot;http://www.lightninglab.co.nz&quot; title=&quot;Lightning Lab website&quot;&gt;Lightning Lab&lt;/a&gt; accelerator programme was wrapping up and you were both coming on board Glassjar fulltime. You were just starting to work on some landing page strategy. What’s the latest?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;JE:&lt;/strong&gt; 	Yea we’ve been working on a series of landing pages for some upcoming campaigns. The latest release is up now at &lt;a href=&quot;https://glassjar.co/&quot; title=&quot;Click to visit Glassjar's latest landing page&quot;&gt;Glassjar.co&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://glassjar.co.nz/&quot;&gt;
+	&lt;video autoplay=&quot;autoplay&quot; loop=&quot;loop&quot;&gt;
+		&lt;source src=&quot;/img/blog/ds-jack-ewing-and-seb-petravic/GlassjarLandingPage.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+		&lt;source src=&quot;/img/blog/ds-jack-ewing-and-seb-petravic/GlassjarLandingPage.ogv&quot; type=&quot;video/ogg&quot; /&gt;
+		Your browser does not support the video tag - head to [www.glassjar.co](www.glassjar.co) to see what we're talking about.
+	&lt;/video&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-was-the-goal-with-this-page-what-sort-of-messaging-is-bringing-people-to-this-landing-page&quot;&gt;What was the goal with this page? What sort of messaging is bringing people to this landing page?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;JE:&lt;/strong&gt;		First off we want everything we do to look good. But I guess the main purpose of the page itself is to visually explain what Glassjar does in a simple and effective way. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SP:&lt;/strong&gt;	We try to target people that are having trouble with their apartment’s finances. So messaging like “let Glassjar sort out your apartment finances”, or “stay mates with your roommates” is directing people to the site.&lt;/p&gt;
+
+&lt;p&gt;And then want people to press the big blue ‘sign up’ button of course.&lt;/p&gt;
+
+&lt;h3 id=&quot;that-coin-loop-is-pretty-striking-whats-going-on-there&quot;&gt;That coin loop is pretty striking. What’s going on there?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;JE:&lt;/strong&gt; 	It’s a cool wee web video. We decided to use HTML5 video rather than a GIF which allowed us to get the video mp4 down to less than 150kb. 69kb for the webM version. It’s so much smaller than a GIF for that critical page load speed. No point doing cool stuff if your site visitor won’t stick around to see it. &lt;/p&gt;
+
+&lt;h3 id=&quot;did-i-see-you-guys-working-on-a-similar-design-with-an-infinitely-pouring-beer-can-at-one-point&quot;&gt;Did I see you guys working on a similar design with an infinitely pouring beer can at one point?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;JE:&lt;/strong&gt; 	Yeah we were. That was our first attempt at this sort of ‘small part of an image moving’ setup. The image wasn’t ours though so obviously there were a few attribution issues. We want to do one like that in the future.&lt;/p&gt;
+
+&lt;h3 id=&quot;back-to-the-landing-page-who-was-responsible-for-the-design&quot;&gt;Back to the landing page, who was responsible for the design?&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/ds-jack-ewing-and-seb-petravic/Whiteboard.jpg&quot; alt=&quot;Jack &amp;amp; Seb drawing up concepts&quot; title=&quot;Jack &amp;amp; Seb working on Glassjar concepts&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JE:&lt;/strong&gt; 	In the team we collaborate a lot, but we each have our own tasks. Seb’s mostly doing the design and layout.  I’m responsible for implementing front end. Matt our CTO is flat out working on the backend of the App itself.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-was-your-favourite-part-of-the-build&quot;&gt;What was your favourite part of the build?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;JE:&lt;/strong&gt;		Parallax scrolling and the simple looping background video. It seems simple but we worked pretty hard on it - the parallax is all homebrew as well as the video. We had to build it custom in order to make the site load as quickly as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SP:&lt;/strong&gt;		Yea, definitely the parallax scrolling.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-was-the-most-frustrating-aspect-of-the-build&quot;&gt;What was the most frustrating aspect of the build?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;JE:&lt;/strong&gt; 	Planning and executing the media queries for different devices and screen sizes. We chose not to use a framework here like bootstrap or foundation so that was definitely the most time consuming part of the site for sure. We’re quite glad how it turned out though.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SP:&lt;/strong&gt; 	There are just so many possibilities when it comes to making a landing page. So I’d say narrowing down on what we think will work best; making people understand why this product is awesome. The new landing page is a large shift in terms of aesthetic, so we really hope it’s even more effective than the last landing page we had. &lt;/p&gt;
+
+&lt;h3 id=&quot;youre-working-for-a-startup-so-there-has-to-be-some-design-consistency-to-company-feel-how-would-you-describe-your-own-style&quot;&gt;You’re working for a startup so there has to be some design consistency to company feel. How would you describe your own style?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;JE:&lt;/strong&gt; 	I’m not sure if I have a complete enough body of work to be able to say I have a definitive personal style. Given the restrictions of the medium and the intended audience the style kind of builds itself. A lot of work is quite homogenous across the web too, particularly with modern web sites so I don’t feel like I’m straying too far from current design trends. I guess my background in film influences me to play with video whenever possible though.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SP:&lt;/strong&gt;		Again I don’t have a large body of work either but I feel my main style currently is; modern, minimalist, flat colours, large images, thin lines and keeping variety of colour minimal, but awesome. I’m trying where I can to have something a little bit unique.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/ds-jack-ewing-and-seb-petravic/Over_shoulder_laptop.jpg&quot; alt=&quot;Jack &amp;amp; Seb coding&quot; title=&quot;Jack &amp;amp; Seb collaborating on landing page code&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;where-are-you-guys-finding-your-influences&quot;&gt;Where are you guys finding your influences?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;JE:&lt;/strong&gt;		I studied Art History and film at university so I guess that may have some bearing on what I’m doing now but my biggest influence has to be the web. Working for a digital company we are cruising the internet every day. You gradually accumulate a stylistic vocabulary without even trying to.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SP:&lt;/strong&gt; 	I studied Media Design at Victoria University which introduced me to a bunch of different kinds of digital design. I also got to experiment with my style and learn some basics of design there. When I think of inspiration sources day to day though I think get really inspired by a lot of designers on websites that show case websites such as &lt;a href=&quot;https://www.behance.net/&quot; title=&quot;Behance - Showcase &amp;amp; discover creative work&quot;&gt;Behance&lt;/a&gt; and &lt;a href=&quot;https://dribbble.com/&quot; title=&quot;Dribble - Show and tell for designers&quot;&gt;Dribble&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JE:&lt;/strong&gt; 	Strangely enough there is also a lot of gold to be found on &lt;a href=&quot;http://www.reddit.com/&quot; title=&quot;reddit - the frontpage of the internet&quot;&gt;reddit&lt;/a&gt; as well. I’m on there every day.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-long-have-you-considered-yourselves-designers-now&quot;&gt;How long have you considered yourselves designers now?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;JE:&lt;/strong&gt; A year, although I should say 4. But I feel like I’ve only really been doing it solid for one.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SP:&lt;/strong&gt; 4 years.&lt;/p&gt;
+
+&lt;h3 id=&quot;and-how-did-you-get-into-web-design-itself&quot;&gt;And how did you get into Web Design itself?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;JE:&lt;/strong&gt; 	I just gravitated toward the internet. I studied for a year at a digital academy in Wellington after Uni though a lot of what I know has been self taught. There’s just so much information of the internet. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SP:&lt;/strong&gt;		I’ve always been in to art and visual design. I went to Uni not knowing what area of design I wanted to work in but I knew that design was a passion of mine. At uni I did a couple of papers on designing and making apps and websites and got in to it at that point. &lt;/p&gt;
+
+&lt;h3 id=&quot;awesome-how-did-you-both-come-to-be-on-team-glassjar-then&quot;&gt;Awesome. How did you both come to be on team Glassjar then?&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/ds-jack-ewing-and-seb-petravic/JACK_SEB_COMPUTER.jpg&quot; alt=&quot;Jack &amp;amp; Seb&quot; title=&quot;Jack &amp;amp; Seb of team Glassjar&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JE:&lt;/strong&gt; 	Heard about the opportunity to intern with the team through school. Decided to give it a go since I didn’t have a lot else on at the time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SP:&lt;/strong&gt;		I didn’t know anyone on the team to begin with. University grapevine hooked me up. But It’s worked out extremely well. I get paid to do what I love now! And the culture fit is awesome.&lt;/p&gt;
+
+&lt;h3 id=&quot;where-do-you-work-from-currently&quot;&gt;Where do you work from currently?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;JE:&lt;/strong&gt;		Currently based at &lt;a href=&quot;http://bizdojo.com/&quot;&gt;Biz Dojo Wellington&lt;/a&gt;. I like it. There’s a bunch of other cool people working on wicked stuff. Can’t go past free coffee. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/ds-jack-ewing-and-seb-petravic/DOJO_Outside.jpg&quot; alt=&quot;Bizdojo Wellington&quot; title=&quot;Outside BizDojo Wellington, NZ&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/ds-jack-ewing-and-seb-petravic/Workspace.jpg&quot; alt=&quot;Bizdojo Wellington&quot; title=&quot;Inside BizDojo Wellington, NZ&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-do-your-upcoming-projects-look-like&quot;&gt;What do your upcoming projects look like?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;JE:&lt;/strong&gt;		All Glassjar. We’ve got a lot of content, landing pages and some interface work for the foreseeable future. We are heading into a huge marketing push.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SP:&lt;/strong&gt; 	We’re all pretty focused on how our product will change for the U.S market. So figuring out exactly what we want to do with that, making different landing pages for the U.S to see how people respond to our idea. But yeah, I’ll be doing a lot of UI/UX design for our new product.   &lt;/p&gt;
+
+&lt;h3 id=&quot;how-are-you-using-cloudcannon-at-the-moment&quot;&gt;How are you using CloudCannon at the moment?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;JE:&lt;/strong&gt;		I have all the site files saved locally on my laptop in my CloudCannon Dropbox folder. With the constant sync between Dropbox and the live site any saves turn up nearly instantly. It’s really handy just sharing a link without having to faff around with a server or any traditional hosting. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SP:&lt;/strong&gt;		We are using CloudCannon to get prototypes out really quickly. Our CEO can also play with copy really easily using the online visual editor since he doesn’t have to get into the backend. That ability saves us a lot of back and forth.&lt;/p&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>Improved image editing in CloudCannon</title>
+				<link>http://cloudcannon.com/features/2014/08/27/improved-image-editing.html</link>
+				<pubDate>Wed, 27 Aug 2014 00:00:00 -0700</pubDate>
+				<author>george</author>
+				<guid>http://cloudcannon.com/features/2014/08/27/improved-image-editing</guid>
+				<description>&lt;p&gt;&lt;img src=&quot;/img/blog/improved-image-editing/improvedImageEditing_summary.png&quot; alt=&quot;Improved image editing&quot; title=&quot;More options and better UI for image editing in CloudCannon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The latest update to CloudCannon has been focused on making it easier to edit website images using the visual editor.&lt;/p&gt;
+
+&lt;p&gt;Take a look at the new workflows.&lt;/p&gt;
+
+&lt;!-- excerpt stop --&gt;
+
+&lt;p&gt;The latest update to CloudCannon has been focused on making it easier to edit images using the visual editor. The online file browser also got a few tweaks..&lt;/p&gt;
+
+&lt;h3 id=&quot;image-editing&quot;&gt;Image editing&lt;/h3&gt;
+
+&lt;p&gt;The old image editor had limited options. You could only completely replace an image with a newly uploaded one or update an image description.&lt;/p&gt;
+
+&lt;p&gt;The new image editor now has more options for sourcing images, we’ve gotten rid of the page obscuring alert window, and packed it all into a much less intrusive menu.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/improved-image-editing/editableImg.png&quot; alt=&quot;New image editing menu&quot; /&gt;
+&lt;em&gt;Check out that sleek menu just beside the image to be edited&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The old system was also not very smart. You could replace an image on a website with another image of any dimension through the visual editor.&lt;/p&gt;
+
+&lt;p&gt;This led to many disasterous scenarios.&lt;/p&gt;
+
+&lt;p&gt;For example:&lt;/p&gt;
+
+&lt;p&gt;You finish the website layout and give it to the client…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/improved-image-editing/sameSizeProducts.png&quot; alt=&quot;Nice page layout&quot; /&gt;
+&lt;em&gt;Nice and orderly&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;…they unwittingly make a few image changes with a variety of different dimensions…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/improved-image-editing/changealltheimagesizes.jpg&quot; alt=&quot;Change all the image sizes!&quot; /&gt;
+&lt;em&gt;Oh client, you are so enthusiastic&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;…and you both end up with the something like this.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/improved-image-editing/differentSizeProducts.png&quot; alt=&quot;Messy page layout&quot; /&gt;
+&lt;em&gt;*sigh*&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Now CloudCannon is smarter. It uses the original dimensions of images inserted in the HTML as hard guidelines for the visual editor.&lt;/p&gt;
+
+&lt;p&gt;Sam likes to think of it as punching fixed size windows in the page that the client can then adjust an image in or find a new image to put into.&lt;/p&gt;
+
+&lt;p&gt;That’s not quite accurate but I can see what he means.&lt;/p&gt;
+
+&lt;p&gt;Check out this this image alteration example:&lt;/p&gt;
+
+&lt;video autoplay=&quot;autoplay&quot; loop=&quot;loop&quot;&gt;
+	&lt;source src=&quot;/img/blog/improved-image-editing/SameImgUpdate.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+	&lt;source src=&quot;/img/blog/improved-image-editing/SameImgUpdate.ogv&quot; type=&quot;video/ogg&quot; /&gt;
+	Your browser does not support the video tag :(.
+&lt;/video&gt;
+
+&lt;p&gt;And watch this image replacement:&lt;/p&gt;
+
+&lt;video autoplay=&quot;autoplay&quot; loop=&quot;loop&quot; width=&quot;800px&quot;&gt;
+	&lt;source src=&quot;/img/blog/improved-image-editing/URLImageUpdate.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+	&lt;source src=&quot;/img/blog/improved-image-editing/URLImageUpdate.ogv&quot; type=&quot;video/ogg&quot; /&gt;
+	Your browser does not support the video tag :(.
+&lt;/video&gt;
+
+&lt;p&gt;These changes to image editing should make the experience much more straightforward for you and your clients.&lt;/p&gt;
+
+&lt;h3 id=&quot;file-browser-updates&quot;&gt;File browser updates&lt;/h3&gt;
+
+&lt;p&gt;Other subtle changes in this latest update relate to the file browser.&lt;/p&gt;
+
+&lt;p&gt;All files and folders now have a menu associated with them that can be accessed by mousing over the top right corner.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/improved-image-editing/filemenu.png&quot; alt=&quot;Menus associated with files and folders&quot; /&gt;
+&lt;em&gt;Mouse over top right for menu, click, and all is revealed.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Of note is the ability to copy links to site assets directly from file browser menu. This should really help you marketers out there.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/improved-image-editing/assetlinkinfilemenu.png&quot; alt=&quot;Unsexy page layout&quot; /&gt;
+&lt;em&gt;Link to specific content (especially downloadables!) directly.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As always, thanks for reading and thanks for using CloudCannon.&lt;/p&gt;
+
+&lt;p&gt;I’d really like to hear of how our new take on image editing works for you and your clients!&lt;/p&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>8th August Feature Release</title>
+				<link>http://cloudcannon.com/features/2014/08/08/feature-release.html</link>
+				<pubDate>Fri, 08 Aug 2014 00:00:00 -0700</pubDate>
+				<author>george</author>
+				<guid>http://cloudcannon.com/features/2014/08/08/feature-release</guid>
+				<description>&lt;p&gt;&lt;img src=&quot;/img/blog/2014-08-08-feature-release/new-site-empty-state-header.png&quot; alt=&quot;New empty site state in CloudCannon&quot; title=&quot;New empty site state in CloudCannon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A decent sized feature update went out recently, although most of it is under the hood.&lt;/p&gt;
+
+&lt;p&gt;The best new ability - you can now host sites on CloudCannon without a Dropbox account connected.&lt;/p&gt;
+
+&lt;!-- excerpt stop --&gt;
+
+&lt;p&gt;A decent sized feature update went out recently, although you won’t see a lot of it - it’s mostly under the hood.&lt;/p&gt;
+
+&lt;p&gt;We’ve been focusing on changing the internal framework so we can add additional storage syncing partners in the future.&lt;/p&gt;
+
+&lt;p&gt;These ongoing changes had the smart wee side effect of removing the necessity of having a Dropbox account connected to CloudCannon in order for it to function properly.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/2014-08-08-feature-release/new-site-empty-state.png&quot; alt=&quot;New site empty state&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are happy just to use the online code editor you can now upload a site and maintain it entirely online.&lt;/p&gt;
+
+&lt;h3 id=&quot;heres-a-recap-of-other-changes&quot;&gt;Here’s a recap of other changes:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;You can connect and disconnect Dropbox at will. We’ll maintain a copy of site files in CloudCannon when disconnected so your sites will stay live.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;More storage providers are coming soon. They aren’t here yet, but we’ve set up this little trap to trick you into telling us which one we should work on next. We count every time someone clicks one and then offer an apology. When we’ve got a clear winner we’ll implement it :)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/2014-08-08-feature-release/select-a-storage-provider.png&quot; alt=&quot;Storage provider trap&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;You are remembered when you return to the site. All you have to do is click ‘Log In’&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;New log in UI
+&lt;img src=&quot;/img/blog/2014-08-08-feature-release/new-sign-in.png&quot; alt=&quot;New log in UI&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;New sign up UI
+&lt;img src=&quot;/img/blog/2014-08-08-feature-release/new-sign-up.png&quot; alt=&quot;New sign up UI&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;New forgot password UI
+&lt;img src=&quot;/img/blog/2014-08-08-feature-release/new-reset-password.png&quot; alt=&quot;New default site icon&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;New default site icon (empty Dropbox symbol no longer makes sense)
+&lt;img src=&quot;/img/blog/2014-08-08-feature-release/new-default-site-icon.png&quot; alt=&quot;New default site icon&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>Designer Spotlight - Cody Tatman</title>
+				<link>http://cloudcannon.com/interview/2014/08/05/designer-spotlight-cody-tatman.html</link>
+				<pubDate>Tue, 05 Aug 2014 00:00:00 -0700</pubDate>
+				<author>sam</author>
+				<guid>http://cloudcannon.com/interview/2014/08/05/designer-spotlight-cody-tatman</guid>
+				<description>&lt;p&gt;&lt;img src=&quot;/img/blog/ds-cody-tatman/cody-tatman.png&quot; alt=&quot;Cody Tatman&quot; title=&quot;Cody Tatman in his studio&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h4 id=&quot;she-just-took-over-a-company-that-is-all-paper-she-actually-said-to-me-i-dont-know-what-im-going-to-do-cody-all-paper-&quot;&gt;” She just took over a company that is &lt;em&gt;all paper&lt;/em&gt;. She actually said to me “I don’t know what I’m going to do Cody!” &lt;em&gt;All Paper!&lt;/em&gt; “&lt;/h4&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Cody Tatman, freelance web designer and digital marketer, on the ups and downs of his latest work, finding clients and living in a burnt out mill.&lt;/p&gt;
+
+&lt;!-- excerpt stop --&gt;
+
+&lt;p&gt;The best thing about building CloudCannon for web designers is that they tend to be cool people who build cool stuff.&lt;/p&gt;
+
+&lt;p&gt;And we get to deal with them a lot.&lt;/p&gt;
+
+&lt;p&gt;It seems like a shame to keep all that to ourselves so we’re shining the spotlight on the best designers we’ve come across so far.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/ds-cody-tatman/cody-tatman.png&quot; alt=&quot;Cody Tatman&quot; title=&quot;Cody Tatman in his studio&quot; /&gt;
+&lt;em&gt;Cody Tatman&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This week we caught up with Cody Tatman, freelance web designer and digital marketer based in Sacramento, California.&lt;/p&gt;
+
+&lt;p&gt;The recently re-launched &lt;a href=&quot;http://www.CodyTatman.com&quot; title=&quot;Head to CodyTatman.com&quot;&gt;CodyTatman.com&lt;/a&gt; is eye catching, combines simple elements to great effect and is making good use of the power of CloudCannon. Here’s what Cody had to say:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.CodyTatman.com&quot; title=&quot;Click to visit the live CodyTatman.com&quot;&gt;&lt;img src=&quot;/img/blog/ds-cody-tatman/codytatmancom.png&quot; alt=&quot;CodyTatman.com&quot; /&gt;&lt;/a&gt;
+&lt;em&gt;&lt;a href=&quot;http://www.CodyTatman.com&quot; title=&quot;Head to CodyTatman.com&quot;&gt;CodyTatman.com&lt;/a&gt; - Cody Tatman&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-was-your-goal-with-the-look-and-feel-of-the-site&quot;&gt;What was your goal with the look and feel of the site?&lt;/h3&gt;
+
+&lt;p&gt;I was looking to make the site as simple as possible. My previous sites were really complicated and had too much info. I wanted this new version to be as direct and easy for people to navigate as possible.&lt;/p&gt;
+
+&lt;h3 id=&quot;its-a-simple-site-but-there-is-still-a-lot-going-on-whats-your-favourite-part&quot;&gt;It’s a simple site but there is still a lot going on. What’s your favourite part?&lt;/h3&gt;
+
+&lt;p&gt;The moment you come to the page and everything appears makes the biggest impression on me. I hope that that small attention to detail grabs attention of my site’s visitors. While that makes a big statement, my favourite part of it is the gliding image in the background. I just think the CSS that I put there is really cool.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-was-the-trickiest-part-of-the-build&quot;&gt;What was the trickiest part of the build?&lt;/h3&gt;
+
+&lt;p&gt;I’d actually never used &lt;a href=&quot;http://fortawesome.github.io/Font-Awesome/&quot;&gt;Font Awesome&lt;/a&gt; before. Some things weren’t working and I couldn’t figure out why things weren’t showing up. Then I realised - way late - that I was just using an old version of it. I think building my site was all really simple for the most part but you’ll always hit a speed bump now and then.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-would-you-describe-your-personal-style&quot;&gt;How would you describe your personal style?&lt;/h3&gt;
+
+&lt;p&gt;I guess I’d describe it as really clean, temporary, a little bit nostalgic. A hint of ‘Gotham’.&lt;/p&gt;
+
+&lt;p&gt;I’m drawn to large, bold fonts that leave little room for confusion. Also, nearly every photo I use around the web has a focus on architecture. Black and White tends to draw the eye.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/ds-cody-tatman/untitled-ct-print.png&quot; alt=&quot;Untitled street print&quot; title=&quot;Untitled by Cody Tatman&quot; /&gt;
+&lt;em&gt;Cody Tatman - Nikon D7000, Focal Length 50mm, Aperture f/7.1, Shutter Speed1/200s, ISO 200&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;your-website-certainly-showcases-all-that-about-you-i-was-browsing-your-photo-website-crtphotocomhttpwwwcrtphotocom-yesterday-and-the-architecture-thing-really-comes-through&quot;&gt;Your website certainly showcases all that about you. I was browsing your photo website &lt;a href=&quot;http://www.CRTphoto.com&quot;&gt;CRTphoto.com&lt;/a&gt; yesterday and the architecture thing really comes through.&lt;/h3&gt;
+
+&lt;p&gt;Yea architecture - that was actually my first career choice. I thought about studying but in the end I was like “I don’t know math”. *laughs*&lt;/p&gt;
+
+&lt;h3 id=&quot;what-influences-for-your-web-design-your-photography-and-the-digital-marketing-stuff-that-youre-doing&quot;&gt;What influences for your web design, your photography and the digital marketing stuff that you’re doing?&lt;/h3&gt;
+
+&lt;p&gt;Honestly, I am inspired by my client’s personalities, fashion sense, and aesthetic and then I kind of feed off of it.&lt;/p&gt;
+
+&lt;p&gt;One of my newest clients is looking to basically create a whole new website. She actually doesn’t have one yet. She just took over a company that is &lt;em&gt;all paper&lt;/em&gt;. She actually said to me “I don’t know what I’m going to do Cody!” &lt;em&gt;All Paper!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The brand name she’s working with is Logo Logos, and the first thing I thought of was those old 3D photos where you had to wear the red and blue glasses. The first logo I created had this effect on top of a vintage 3D image. &lt;/p&gt;
+
+&lt;p&gt;I guess you’d say that it’s very nostalgic. Sticking with my style!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/ds-cody-tatman/3d-glasses.jpg&quot; alt=&quot;3d glasses&quot; /&gt;
+&lt;em&gt;http://www.3d-image.net/images/3D-glasses-anaglyph.jpg&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;how-long-have-you-been-a-web-designer-for&quot;&gt;How long have you been a web designer for?&lt;/h3&gt;
+
+&lt;p&gt;I’ve probably been doing it for two years total now.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-did-you-get-into-it-and-how-did-you-learn&quot;&gt;How did you get into it and how did you learn?&lt;/h3&gt;
+
+&lt;p&gt;I’m all self trained. I went to school for digital marketing and then I realised I like to get my hands dirty just a little bit. So everything I’ve learned is via &lt;a href=&quot;http://www.codecademy.com&quot;&gt;Codecademy&lt;/a&gt;, &lt;a href=&quot;http://www.lynda.com/&quot;&gt;Lynda&lt;/a&gt; videos or just Google searching issues as they come up. I have a lot of fun learning on my own.&lt;/p&gt;
+
+&lt;p&gt;I actually used to work for a SharePoint company where all of my skills went out the window - the process was completely outdated. After a year of working with them I got back into self-learning code.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-are-some-of-your-upcoming-projects&quot;&gt;What are some of your upcoming projects?&lt;/h3&gt;
+
+&lt;p&gt;My next big project is my friends website. That’s going to be a pretty big deal for my career. She basically does merchandise - like event ‘swag’ I guess you’d say. She left a big company that did promotions and she finally decided to go out on her own. It’s going to be a learning experience for me as this will be the first eCommerce site I’ve worked on. With promotions, many of the products are aggregated from many sources and I’ll have to bring them all into one. So I’m really excited to be working on that.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.WRKmidtown.co&quot; title=&quot;Visit WRK Midtown&quot;&gt;&lt;img src=&quot;/img/blog/ds-cody-tatman/wrk-midtown.png&quot; alt=&quot;WRK Midtown&quot; /&gt;&lt;/a&gt;
+&lt;em&gt;&lt;a href=&quot;http://www.WRKmidtown.co&quot;&gt;WRKmidtown.co&lt;/a&gt; - Cody Tatman&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m also working on another project called &lt;a href=&quot;http://www.WRKmidtown.com&quot;&gt;WRK Midtown&lt;/a&gt;, promoting the creative industries in Sacramento. Lately I’ve been working on getting out there and reaching local companies to feature on the site. I actually have about 5 CEOs that are down so that’s cool. The real focus is to create a better network of professionals in my hometown. If everything goes according to plan, WRK can become a go-to site for “best places to work in Sacramento”.&lt;/p&gt;
+
+&lt;h3 id=&quot;is-that-how-youre-finding-most-of-your-business-through-word-of-mouth-and-through-networking&quot;&gt;Is that how you’re finding most of your business? Through word of mouth and through networking?&lt;/h3&gt;
+
+&lt;p&gt;A lot of it is yeah. And I’m okay with that. Connecting with people on a personal level is more important to me than sending out CVs and proposals. People want to work with people.&lt;/p&gt;
+
+&lt;p&gt;I did get someone who came to me through LinkedIn recently and it was someone who said they needed a lot of work on their eCommerce site but what they actually wanted was someone to become their new full time marketing person. I wasn’t willing. Not for them. *laughs*&lt;/p&gt;
+
+&lt;h3 id=&quot;where-do-you-do-most-of-your-work&quot;&gt;Where do you do most of your work?&lt;/h3&gt;
+
+&lt;p&gt;I’m talking to you from my house. This is it. I live in an old flour mill actually. It’s been completely renovated into living space because of a fire that happened in the 90’s. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/ds-cody-tatman/globe-flour-mills.jpg&quot; alt=&quot;Globe Flour Mills&quot; /&gt;
+&lt;em&gt;Cody Tatman&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;All of the stairwells are inside the flour silos. It’s really cool.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/ds-cody-tatman/globe-flour-mills-landing.jpg&quot; alt=&quot;Globe Flour Mills internal stairwell landing&quot; /&gt;
+&lt;em&gt;Cody Tatman&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;You can actually see the old graffiti from when this was abandoned like in the hallways and on my walls. It’s awesome.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/ds-cody-tatman/globe-flour-mills-entrance.jpg&quot; alt=&quot;Globe Flour Mills entrance&quot; /&gt;
+&lt;em&gt;Cody Tatman&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/ds-cody-tatman/globe-flour-mills-stairs.jpg&quot; alt=&quot;Globe Flour Mills stairwell&quot; /&gt;
+&lt;em&gt;Cody Tatman&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When I was in high school, I used to break into buildings like this. And now I get to live and work in one. So I’m pretty happy!&lt;/p&gt;
+
+&lt;h3 id=&quot;how-are-you-using-cloudcannon-at-the-moment&quot;&gt;How are you using CloudCannon at the moment?&lt;/h3&gt;
+
+&lt;p&gt;I love the the editable regions definitely. I haven’t used them on my own site because it’s so simple. But for all my client stuff it’s the best. I recently updated my rate card and CloudCannon is now listed as my CMS of choice.&lt;/p&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>Build e-commerce sites on CloudCannon with Snipcart</title>
+				<link>http://cloudcannon.com/tutorials/2014/07/30/e-commerce-now-on-cloud-cannon-with-snipcart.html</link>
+				<pubDate>Wed, 30 Jul 2014 00:00:00 -0700</pubDate>
+				<author>sam</author>
+				<guid>http://cloudcannon.com/tutorials/2014/07/30/e-commerce-now-on-cloud-cannon-with-snipcart</guid>
+				<description>&lt;p&gt;&lt;img src=&quot;/img/blog/snipcart-response/cloudcannon_and_snipcart.png&quot; alt=&quot;CloudCannon + Snipcart&quot; /&gt;
+We believe the approach we’ve taken with CloudCannon CMS is the right way to remove the technical junk that web designers shouldn’t have to deal with when adding content management to their website, but we’ve struggled to find anyone who has the same philosophy when it comes to e-commerce. Until now.&lt;/p&gt;
+
+&lt;h4 id=&quot;behold&quot;&gt;Behold:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/snipcart-response/snipcart.png&quot; alt=&quot;Snipcart logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.snipcart.com&quot;&gt;Snipcart&lt;/a&gt; is the solution we’ve been waiting for! And now we reckon e-commerce on CloudCannon is going to be awesome!&lt;/p&gt;
+
+&lt;h3 id=&quot;whats-snipcart&quot;&gt;What’s Snipcart?&lt;/h3&gt;
+
+&lt;p&gt;The team at Snipcart have created some Javascript magic so that with a single line of script and a few lines of markup you can make any link or HREF on your HTML website buyable.&lt;/p&gt;
+
+&lt;p&gt;That’s:&lt;/p&gt;
+
+&lt;pre class=&quot;prettyprint snipcart&quot;&gt;
+&amp;lt;script type=&quot;text/javascript&quot; 
+  id=&quot;snipcart&quot; 
+  src=&quot;https://app.snipcart.com/scripts/snipcart.js&quot;
+  data-api-key=&quot;{YOUR_API_KEY}&quot;&amp;gt;
+&amp;lt;/script&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;And&lt;/p&gt;
+
+&lt;pre class=&quot;prettyprint snipcart&quot;&gt;
+&amp;lt;button class=&quot;snipcart-add-item&quot;
+  data-item-id=&quot;42&quot;
+  data-item-name=&quot;Bacon&quot;
+  data-item-price=&quot;10.00&quot;
+  data-item-url=&quot;/store&quot;&amp;gt;Buy Bacon&amp;lt;/button&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;BAM. Easy*.&lt;/p&gt;
+
+&lt;p&gt;I’m far from a great web designer myself, but even I managed to knock a Snipcart website together on CloudCannon in an afternoon. Check out ‘Steve’s Submarine Emporium’ - &lt;a href=&quot;http://sse.cloudvent.net/&quot;&gt;http://sse.cloudvent.net/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;*&lt;em&gt;But if you love the details you can &lt;a href=&quot;http://docs.snipcart.com/getting-started/installation&quot;&gt;check out their docs&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;why-snipcart-is-going-to-be-awesome-on-cloudcannon&quot;&gt;Why Snipcart is going to be awesome on CloudCannon&lt;/h3&gt;
+
+&lt;p&gt;The ability to sell things from your website, without databases, programming languages or unnecessary hassle is core to the Snipcart philosophy, and we’re excited at CloudCannon because we believe the same thing too.&lt;/p&gt;
+
+&lt;p&gt;We also think Snipcart rocks because it works everywhere. Just like us.&lt;/p&gt;
+
+&lt;p&gt;Snipcart hooks into 5 payment gateways - with more on the way they tell us - but all we reckon you need to know is that between &lt;a href=&quot;https://stripe.com/&quot;&gt;Stripe&lt;/a&gt; (easy, powerful, sexy, BUT not global yet) and &lt;a href=&quot;https://www.paypal.com/&quot;&gt;PayPal&lt;/a&gt; (not so easy, not so powerful, not so sexy, BUT global already) you’ve got your options covered.&lt;/p&gt;
+
+&lt;h3 id=&quot;excellent-shut-up-and-tell-me-how&quot;&gt;Excellent. Shut up and tell me how…&lt;/h3&gt;
+
+&lt;p&gt;François over at Snipcart has just released an excellent tutorial on setting up Snipcart on CloudCannon.&lt;/p&gt;
+
+&lt;p&gt;Check out the link below:&lt;/p&gt;
+&lt;div&gt;
+	&lt;a class=&quot;btn&quot; href=&quot;https://snipcart.com/blog/how-to-sell-online-with-cloudcannon&quot;&gt;Take me to the CloudCannon &amp;amp; Snipcart Tutorial&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Side notes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Snipcart guys called us out for not having any e-commerce template. Touche. We’ll get at least one out soon.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Attributes for Snipcart items are not currently integrated with CloudCannon’s Visual editor. You’ll have to make changes to the HTML manually.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Do tell us&lt;/strong&gt; if you love using Snipcart on CloudCannon so we can put extra effort into working together on a much simpler integration.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Get designing, and get selling!&lt;/p&gt;
+
+</description>
+			</item>
+		
+			<item>
+				<title>Jekyll private beta and July Update</title>
+				<link>http://cloudcannon.com/newsletter/2014/07/25/jekyll-blogging-and-july-update.html</link>
+				<pubDate>Fri, 25 Jul 2014 00:00:00 -0700</pubDate>
+				<author>mike</author>
+				<guid>http://cloudcannon.com/newsletter/2014/07/25/jekyll-blogging-and-july-update</guid>
+				<description>&lt;p&gt;&lt;img src=&quot;/img/blog/july14-update/cc_jekyll_header.png&quot; alt=&quot;j&quot; /&gt;
+ At CloudCannon we’ve been extremely busy over the last 3 months. But admittedly, not very vocal. Since we last sent out an update there have been both new features added to the CloudCannon app and a new face added to the CloudCannon team.&lt;/p&gt;
+
+&lt;p&gt;Here’s a recap of what’s been going on:&lt;/p&gt;
+
+&lt;h3 id=&quot;blogging-is-coming-to-cloudcannon&quot;&gt;Blogging is coming to CloudCannon!&lt;/h3&gt;
+&lt;p&gt;When we first started CloudCannon we thought that we’d only ever serve static sites. However the sheer number of requests for blog support lead us to reconsider.&lt;/p&gt;
+
+&lt;p&gt;Lately we’ve been working on an integration with &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, a static site generator which has become extremely popular.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/july14-update/jekyll.png&quot; alt=&quot;jekyll update&quot; style=&quot;width:80%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our Jekyll feature set is currently in private beta right now. To get early access to blogging on CloudCannon head over to &lt;a href=&quot;/jekyll&quot;&gt;cloudcannon.com/jekyll&lt;/a&gt;.  &lt;/p&gt;
+
+&lt;div&gt;
+	&lt;a class=&quot;btn&quot; href=&quot;/jekyll&quot;&gt;Give me blogging on CloudCannon! →&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;app-look-and-feel&quot;&gt;App look and feel&lt;/h3&gt;
+
+&lt;p&gt;Three big changes you might have noticed about how CloudCannon looks:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We’ve done a complete redesign of the designer browser interface.
+We’ve changed icons to be larger, more colourful (yes we speak UK english) and clearer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/july14-update/site_icons.png&quot; alt=&quot;Site Icons&quot; style=&quot;width: 80%&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Configuration from the Designer view is also now much much easier. Config has it’s own tab down the left hand menu. Better than a couple of buttons along the bottom we had previously.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/july14-update/config.png&quot; alt=&quot;Configuration&quot; style=&quot;width: 80%&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The client editing experience has been made much smoother, particularly around site navigation.
+Users can now navigate their site in the editor view much like the would normally (click buttons, follow internal links, etc) and make changes as they go.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;new-functionality&quot;&gt;New Functionality&lt;/h3&gt;
+
+&lt;p&gt;You can now host multiple websites on a single domain.
+E.g. Example.com might point to your main site, while sale.example.com might point to a new separate landing page.&lt;/p&gt;
+
+&lt;p&gt;This functionality is enabled by creating a new ‘website’ under an already used domain. Detection that the domain is already used on your primary site is automatic and will present you new settings.&lt;/p&gt;
+
+&lt;h3 id=&quot;performance-updates&quot;&gt;Performance updates&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Syncing is faster now. Small updates should be live almost instantly.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Adding a template to a website will also be much faster now.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;minor-usability-updates&quot;&gt;Minor usability updates&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When you or your client has made changes and your site is syncing, we’ve added some icons to indicate the sync state.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/july14-update/sync_icon.png&quot; alt=&quot;Sync icons&quot; style=&quot;width: 40%&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Filenames are now smarter. They span over two lines and truncate in the middle.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We’ve added some sexy alert messages that pop out of the bottom right of your screen to let you know what’s going on.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/july14-update/update_alert.png&quot; alt=&quot;Alert Message&quot; style=&quot;width: 60%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;other-stuff&quot;&gt;Other stuff&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We got a new favicon. Awwww yeah.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/july14-update/fav_icon.png&quot; alt=&quot;Sync icon&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;new-faces&quot;&gt;New faces&lt;/h3&gt;
+
+&lt;p&gt;Until now, CloudCannon has just been George and I. We’ve achieved a lot to date, but we have bigger visions for what CloudCannon can be and what our community of awesome web designers will be capable of.&lt;/p&gt;
+
+&lt;p&gt;You might remember that &lt;a href=&quot;/company/2014/03/30/lightning-lab.html&quot;&gt;we recently went through a business accelerator programme in New Zealand&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Wow, did two computer science majors learn a lot about running a business!&lt;/p&gt;
+
+&lt;p&gt;One of the main things we took away from that experience is that to achieve what we want, we’re going to have to grow.&lt;/p&gt;
+
+&lt;p&gt;With that in mind, we’re excited to officially welcome Sam Bonney to the team as our Head of Marketing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/july14-update/sam.jpg&quot; alt=&quot;Sam&quot; style=&quot;border-radius: 1000px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;Sam Bonney, our new Head of Marketing.&lt;/p&gt;
+
+&lt;p&gt;He loves &lt;a href=&quot;http://en.wikipedia.org/wiki/Ascot_tie#Popularity_of_the_day_cravat&quot;&gt;cravats&lt;/a&gt; and &lt;a href=&quot;http://en.wikipedia.org/wiki/Instant_noodles&quot;&gt;noodles&lt;/a&gt;! &lt;a href=&quot;/img/blog/july14-update/sam_2.jpg&quot;&gt;Often together&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We met Sam during our time in the accelerator - he was running it! - and as well as getting along with him like a house on fire, we realised that he brings a completely different way of thinking to CloudCannon.&lt;/p&gt;
+
+&lt;p&gt;Sam understands how lots of different kinds of businesses run and we think thats going to be crucial not only for us, but for all of our users who have to ‘run the business’ of being a freelance web designer, small agency or DIY business owner.&lt;/p&gt;
+
+&lt;p&gt;Sam’s been with us for a few weeks now so you may already have received an email or two from him.&lt;/p&gt;
+
+&lt;p&gt;With a bit more man power around the place, communication from us is going to be a lot more regular (for real this time).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/july14-update/team.jpg&quot; alt=&quot;CloudCannon Team&quot; style=&quot;width: 80%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s all for now. We’re currently working on a  secret project which will change the way you migrate websites. Stay tuned for details.&lt;/p&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>Learning to Code - Take Two!</title>
+				<link>http://cloudcannon.com/interview/2014/04/24/learning-to-code-take-two.html</link>
+				<pubDate>Thu, 24 Apr 2014 00:00:00 -0700</pubDate>
+				<author>yasmin</author>
+				<guid>http://cloudcannon.com/interview/2014/04/24/learning-to-code-take-two</guid>
+				<description>&lt;p&gt;So for a while there after my first go at coding html with the help of Codecademy’s awesome tutorials I was on a bit of ego high, because I made text change colours, I linked words to images, added images from different websites, made lists with different background colours and heaps of other exciting stuff which I had always presumed was super hard. &lt;/p&gt;
+
+&lt;p&gt;Then my egotistic bubble got burst. Big time. Because I found out that CloudCannon co-founder George made his first website when he was seven. SEVEN! What. And then other developer friends started reminiscing about how they’d made their first sites at nine, ten, eleven years old. And here I am at twenty-one years old overly proud of accomplishing something that a seven year old can do. I guess I must just be a late developer.&lt;/p&gt;
+
+&lt;p&gt;And thus began my second attempt at learning html. I was pretty determined to whip through loads of tutorials this time around to prove that I was as good as any primary aged child out there, but to my dismay I could remember hardly anything from last time (this was about a week and a half later). I vaguely remembered, but not exactly, and you have to be pretty exact with html. So I went back through every tutorial I did last time in order to refresh my memory, though much, much faster. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/yasmin-post-2/summary.png&quot; alt=&quot;Summary&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I also made another super sweet webpage or ‘social media profile’ which helped me revive and refine my former skills, but was a bit frustrated at that I hadn’t yet been taught how to centre align images because that could’ve made my profile look waaay better. Also frustrating was not knowing what colour is what and what font families are available. I mean I know if I type in ‘pink’ the font will be pink but how do you change the shade of pink? From what I understand, every colour has a unique code that you can type in instead of just typing the name but how do you find what a colour’s code is? And how can you choose the perfect colour shade without a slider to give variation. Do you always have to pre-determine your colour before you do the code? When you make the file in Photoshop? I guess that makes sense actually. I believe I’ve just answered my own question. &lt;/p&gt;
+
+&lt;p&gt;Disclaimer: Unsure if my theory is correct so don’t quote me on that, I will have to double check with someone who knows their shit.&lt;/p&gt;
+
+&lt;p&gt;Last but not least, in the html basics tutorial was the making of Tables. This felt quite similar to making lists a.k.a. sorta feel like I wouldn’t use them but they are probably used all time. Felt a bit like Codecademy suddenly dumped loads of new words on me like &lt;code&gt;&amp;lt;thead&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; without really giving me the chance to repeat them a bit, and then master them. Not too sure if I will remember the Table stuff next time I log on. But anyway… I finished!! Html basics tutorial is complete and much easier and more engaging than I expected. Bring on CSS and aesthetic goodness.&lt;/p&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>Using CloudCannon with Javascript</title>
+				<link>http://cloudcannon.com/tutorials/2014/04/18/cloud-cannon-and-javascript.html</link>
+				<pubDate>Fri, 18 Apr 2014 00:00:00 -0700</pubDate>
+				<author>george</author>
+				<guid>http://cloudcannon.com/tutorials/2014/04/18/cloud-cannon-and-javascript</guid>
+				<description>&lt;p&gt;&lt;img src=&quot;/img/blog/slider.png&quot; alt=&quot;A fake slideshow image&quot; /&gt;
+A common question that comes up is “How can I use Javascript with CloudCannon?”. As a heavy javascript user, I would ask the same and that’s why we build CloudCannon from the ground up to handle a wide range of sites. &lt;/p&gt;
+
+&lt;p&gt;There is one rule to know when using javascript with the editable class. &lt;strong&gt;The elements with an editable class must not be rendered or tampered with by the javascript. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sliderscarousels&quot;&gt;Sliders/Carousels&lt;/h3&gt;
+
+&lt;p&gt;CloudCannon allows you to add the editable class to content that is no visible on page load. As long as the content is on the page to start with it should work. &lt;/p&gt;
+
+&lt;p&gt;To demo this I am going to use &lt;a href=&quot;http://unslider.com/&quot;&gt;unslider&lt;/a&gt;. To add the slider we just need a div with all the slides with their own container:&lt;/p&gt;
+
+&lt;pre class=&quot;prettyprint linenums&quot;&gt;
+&amp;lt;div class=&quot;banner&quot;&amp;gt;
+    &amp;lt;ul&amp;gt;
+        &amp;lt;li&amp;gt;This is a slide.&amp;lt;/li&amp;gt;
+        &amp;lt;li&amp;gt;This is another slide.&amp;lt;/li&amp;gt;
+        &amp;lt;li&amp;gt;This is a final slide.&amp;lt;/li&amp;gt;
+    &amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;Then all we need to do is include the scripts required and add a single line of JavaScript:&lt;/p&gt;
+
+&lt;pre class=&quot;prettyprint linenums&quot;&gt;
+var options = {
+    speed: 500,   //  The speed to animate each slide (in milliseconds)
+    delay: 3000,  //  The delay between slide animations (in milliseconds)
+    dots: true    //  Display dot navigation
+};
+
+$('.banner').unslider(options);
+&lt;/pre&gt;
+
+&lt;p&gt;Hurray, if we test this we see that we have editable content within a slider. One problem though, the library is messing with the inline editing. Every time the arrow keys are pressed the next slide is shown rather than changing  my caret position. That’s Ok, we just need to disable the arrow keys and the autoplay on the site while inside the editor. &lt;/p&gt;
+
+&lt;pre class=&quot;prettyprint linenums&quot;&gt;
+var options = {
+    speed: 500,   //  The speed to animate each slide (in milliseconds)
+    delay: 3000,  //  The delay between slide animations (in milliseconds)
+    dots: true    //  Display dot navigation
+};
+
+if (window.inEditorMode) {
+    options.keys = false;
+    options.delay = false;
+}
+
+$('.banner').unslider(options);
+&lt;/pre&gt;
+
+&lt;p&gt;This will mean that we have got a customisable slider which works well in both the live site and in the client editor. &lt;/p&gt;
+
+&lt;h3 id=&quot;accordions&quot;&gt;Accordions&lt;/h3&gt;
+
+&lt;p&gt;Accordions are another way of showing and hiding related content. They help declutter a screen and are perfect for things like FAQ’s. There is a good tutorial on how to make a simple JQuery accordion on &lt;a href=&quot;http://www.jacklmoore.com/notes/jquery-accordion-tutorial/&quot;&gt;jacklmoore.com&lt;/a&gt;. This will work perfectly just by adding the editable class to any of the content. Amazingly this would even work with the &lt;a href=&quot;/docs#repeatable_regions&quot;&gt;Repeatable Regions&lt;/a&gt; feature.&lt;/p&gt;
+
+&lt;h3 id=&quot;thats-all-today&quot;&gt;That’s all today&lt;/h3&gt;
+
+&lt;p&gt;Thanks for reading. Here’s &lt;a href=&quot;http://sliderdemo.cloudvent.net/&quot;&gt;a demo of the slider&lt;/a&gt;. Note it’s not pretty but would be easy to style. If you want me to go over any other kind of javascript ui modules or somethings unclear feel free to send me a message. To keep up to date on these posts make sure to &lt;a href=&quot;https://twitter.com/cloudcannonapp&quot;&gt;follow us on twitter&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+			</item>
+		
+			<item>
+				<title>Free Flat Monochrome Device Icons</title>
+				<link>http://cloudcannon.com/freebies/2014/04/07/free-flat-device-icons.html</link>
+				<pubDate>Mon, 07 Apr 2014 00:00:00 -0700</pubDate>
+				<author>george</author>
+				<guid>http://cloudcannon.com/freebies/2014/04/07/free-flat-device-icons</guid>
+				<description>&lt;p&gt;&lt;img src=&quot;/downloads/device-icons/cloud-cannon-device-icons.png&quot; alt=&quot;Preview of Device Icons&quot; /&gt;
+I was building a simple web application and needed some flat device icons. Instead of finding one of the thousands of device icons sets on the web as any sane person would, I decided to build my own.&lt;/p&gt;
+
+&lt;p&gt;There are millions out there but these are mine. Free to use and I would love to see where you use them so keep me posted. Enjoy &lt;span class=&quot;cheese&quot;&gt;:D&lt;/span&gt;!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;/downloads/device-icons/cloud-cannon-device-icons.psd.zip&quot;&gt;Download Raw Photoshop File&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;/downloads/device-icons/cloud-cannon-device-icons.png&quot;&gt;Download PNG File&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>Learning HTML from the perspective of a designer</title>
+				<link>http://cloudcannon.com/interview/2014/04/03/my-journey-from-illustrator-to-HTML.html</link>
+				<pubDate>Thu, 03 Apr 2014 00:00:00 -0700</pubDate>
+				<author>yasmin</author>
+				<guid>http://cloudcannon.com/interview/2014/04/03/my-journey-from-illustrator-to-HTML</guid>
+				<description>&lt;p&gt;This blog will document the journey of a totally code-naive designer(me) as I attempt to learn to 
+code. My attempts will no doubt be laughable to any one who has any experience in the digital 
+realm.  &lt;/p&gt;
+
+&lt;h2 id=&quot;code-101-learning-the-basics&quot;&gt;Code 101: Learning the basics&lt;/h2&gt;
+&lt;p&gt; 
+To give a brief overview of myself; I recently completed my Bachelor of Design Innovation (what 
+does that even mean??) at Victoria University of Wellington, New Zealand. I majored in Industrial 
+Design which was mostly product design &amp;amp; manufacture based. My ﬁnal university project ever 
+involved doing some branding &amp;amp; identity and designing an app, and it was then that I ﬁnally was like 
+‘damn, this is fun! I want to do more of this type of thing.’ Since then I have been working with 
+various small-scale business helping them with their branding, UI and UX design. Very quickly I 
+found out that it was not enough for me to just to pretty photoshop layouts, I actually had to learn to 
+code them. So here it goes.. &lt;/p&gt;
+
+&lt;h3&gt;Where to begin&lt;/h3&gt;
+
+&lt;p&gt;A developer friend had mentioned Codecademy to me so I thought I’d jump on that. First (of 
+many) surprises; there was more than one type of code to learn, in fact on the main page there are 
+six and all of them are described as the ‘most popular’ or ‘building blocks of web development’ or 
+‘powerful yet beginner-friendly’ or ‘learn the fundamentals’ aka they are ALL the easiest, most 
+important, best language for a beginner to learn. Instead of taking a lucky dip I went back to 
+aforementioned friend and asked for their advice. Important note: what I want to achieve by 
+learning to code is to be able to code my own websites and apps on a basic level so I can 
+demonstrate what I want to a client or show it to a kickass developer who could understand it 
+enough to then turn it into a super fast, fully functional product. And so it was decided I would start 
+with HTML. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/yasmin-post-1/first.png&quot; alt=&quot;Headings &amp;amp; Paragraphs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; &amp;lt;h3&amp;gt;Color not Colour&amp;lt;/h3&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;First tutorials were pretty easy to follow, I learnt how to make words link to different webpages, 
+insert images and make images link to webpages. This was a pretty big thing for me cause I 
+thought it would take me a couple of weeks of practice but actually it only took about 45min of 
+Codecademy tutorials. One thing that did annoy my designer side was that what I was making was 
+super ugly; the font style/size/colour etc but I do realise this is what CSS is for. Also I got really 
+frustrated when one tutorial would not let me advance because I had made an error and I redid it 
+about ten times to no avail, eventually someone pointed out to me that I had spelt ‘colour’ wrong, 
+because HTML is written in American English.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/yasmin-post-1/second.png&quot; alt=&quot;Working with Pictures&quot; /&gt;
+ 
+After making my own shitty 90’s style webpage about myself with clickable images and links, and 
+proudly showing it to my ﬂatmates I moved on to the List Making tutorials which were not as 
+interesting because I don’t want to make lists, but perhaps that is is actually something developers 
+frequently use? I’m unsure because I started listing things on my mind, the numero uno thing was 
+food and so I got hungry and stopped my tutorials.  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/yasmin-post-1/third.png&quot; alt=&quot;Lists&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; &amp;lt;h3&amp;gt;Final thoughts&amp;lt;/h3&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Overall, much easier to understand than I had thought big ups to Codecademy for making such 
+great (and FREE) lessons that can make novices feel like pros. Next step, making my site live in 
+60 seconds with CloudCannon!&lt;/p&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>How to turn text smiley faces the right way up with Smiley.js</title>
+				<link>http://cloudcannon.com/freebies/2014/04/02/rotating-smiley-faces-the-right-way.html</link>
+				<pubDate>Wed, 02 Apr 2014 00:00:00 -0700</pubDate>
+				<author>george</author>
+				<guid>http://cloudcannon.com/freebies/2014/04/02/rotating-smiley-faces-the-right-way</guid>
+				<description>&lt;p&gt;&lt;img src=&quot;/img/blog/smileys.js.png&quot; alt=&quot;Smiley Project Page&quot; /&gt;
+I recently released a small script I built last year. I took the time to clean it up and I thought you all might enjoy it.&lt;/p&gt;
+
+&lt;p&gt;I’m proud to announce the Smiley.js Jquery plugin. This tiny plugin can take some ordinary looking smiley faces and turn them into things that people actually recognise :D –&amp;gt; &lt;span class=&quot;cheese&quot;&gt;:D&lt;/span&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-do-i-use-it&quot;&gt;How do I use it?&lt;/h2&gt;
+&lt;p&gt;CloudCannon is kindly giving the power of Smileys to everyone. If you want to use it just check out the &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/GeorgePhillips/Smiley.js&quot;&gt;github repo&lt;/a&gt; and add the files to your site.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-1---add-the-happiness&quot;&gt;Step 1 - Add the happiness&lt;/h3&gt;
+&lt;p&gt;Add the smileys.css file to the head.
+&amp;lt;pre class=&quot;prettyprint linenums&quot;&amp;gt;&amp;lt;link rel=”stylesheet” href=”smiley.css”&amp;gt;&amp;lt;/pre&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Add smileys.js to the end of the body after JQuery
+&amp;lt;pre class=&quot;prettyprint linenums&quot;&amp;gt;&amp;lt;script src=”smileys.js”&amp;gt;&amp;lt;/script&amp;gt;&amp;lt;/pre&amp;gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;step-2---smilify&quot;&gt;Step 2 - Smilify&lt;/h3&gt;
+&lt;p&gt;Just call smilify on any element as you would any other JQuery function.
+&amp;lt;pre class=&quot;prettyprint linenums&quot;&amp;gt;$(“selector”).smilify();&amp;lt;/pre&amp;gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://cloudcannon.com/smileys/&quot;&gt;Project Page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/GeorgePhillips/Smiley.js&quot;&gt;Github Repo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>Introducing Pricing Tiers</title>
+				<link>http://cloudcannon.com/features/2014/04/01/new-pricing-tiers.html</link>
+				<pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
+				<author>mike</author>
+				<guid>http://cloudcannon.com/features/2014/04/01/new-pricing-tiers</guid>
+				<description>&lt;p&gt;We’ve had a big week at CloudCannon and I’m very happy to announce new pricing tiers for CloudCannon.&lt;/p&gt;
+
+&lt;p&gt;Until now we’ve had single price per production website on CloudCannon. George and I sat down and talked to you guys to see if the pricing was working for you. One thing soon became obvious, it wasn’t.&lt;/p&gt;
+
+&lt;p&gt;Web designers are building their web design companies around CloudCannon and the current pricing model wasn’t scaling with their business.&lt;/p&gt;
+
+&lt;p&gt;Well, we listened and today we’re fixing that with new pricing tiers.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-are-the-tiers&quot;&gt;What are the tiers?&lt;/h2&gt;
+
+&lt;p&gt;We’re introducing four pricing tiers to work with you at all stages of growing your business from building your first website to running a thriving web design agency.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/tiered_pricing/plans.png&quot; alt=&quot;Tiered Pricing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We found there was a lot of confusion between a “prototyping” cloudvent.net address and a production domain. Now the number of sites is much simpler, it’s the number of websites you have whether they’re cloudvent.net addresses or production domains.&lt;/p&gt;
+
+&lt;p&gt;Don’t worry, we still have a free plan but it’s now a single cloudvent.net site to give you a taste of CloudCannon.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-next&quot;&gt;What’s Next?&lt;/h2&gt;
+&lt;p&gt;CloudCannon makes it really easy for you to get websites online for you clients. Now it’s time to take things further. &lt;/p&gt;
+
+&lt;p&gt;Over the next few months we’re focusing on:
+* Making it easier to work in teams on CloudCannon websites
+* We’ve made websites load super fast already. We want to make them load even faster.
+* Adding more power for you guys to create more complex websites on CloudCannon
+* Simplifying the client experience even more&lt;/p&gt;
+
+</description>
+			</item>
+		
+			<item>
+				<title>We've joined Lightning Lab</title>
+				<link>http://cloudcannon.com/company/2014/03/30/lightning-lab.html</link>
+				<pubDate>Sun, 30 Mar 2014 00:00:00 -0700</pubDate>
+				<author>mike</author>
+				<guid>http://cloudcannon.com/company/2014/03/30/lightning-lab</guid>
+				<description>&lt;p&gt;We’ve been so busy the past month I haven’t had a chance to update this blog. That’s all changing now, there’s too much going on here not to share. I’m going to spend more time keeping you updated with all the exciting things happening at CloudCannon.
+&lt;img src=&quot;/img/blog/lightning-lab/ll-logo.jpg&quot; alt=&quot;Includes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The first big announcement is we’ve joined a New Zealand based business accelerator programme called &lt;a href=&quot;http://lightninglab.co.nz&quot;&gt;Lightning Lab&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;George and I originally built CloudCannon to solve our own problem… it just shouldn’t be that hard to get a simple website online. Six months later we’ve found thousands of web designers share our vision and are using CloudCannon everyday. &lt;/p&gt;
+
+&lt;p&gt;Lightning Lab is going to help us grow so we can provide you with an even more powerful service. We’re stoked to be here and can’t wait to show you what we’ve got in the pipeline.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/lightning-lab/or.jpg&quot; alt=&quot;Includes&quot; /&gt;
+&lt;em&gt;Lightning Lab Orientation&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Exciting times!&lt;/p&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>Building Solitaire with HTML and JavaScript</title>
+				<link>http://cloudcannon.com/tutorials/2014/03/28/html-solitaire-intro.html</link>
+				<pubDate>Fri, 28 Mar 2014 00:00:00 -0700</pubDate>
+				<author>george</author>
+				<guid>http://cloudcannon.com/tutorials/2014/03/28/html-solitaire-intro</guid>
+				<description>&lt;p&gt;&lt;img src=&quot;/img/blog/solitaire.png&quot; alt=&quot;Solitaire Game Screenshot&quot; /&gt;
+Recently we released an &lt;a target=&quot;_blank&quot; href=&quot;http://solitaire.cloudvent.net&quot;&gt;HTML5 Solitaire Game&lt;/a&gt; built on CloudCannon. There were quite a few people keen to read some tutorials that outline how it was built.&lt;/p&gt;
+
+&lt;p&gt;Over the next month the posts I am going to cover are:
+* The HTML and CSS to build cards
+* Creating the Interface
+* Writing the logic in Backbone.js&lt;/p&gt;
+
+&lt;p&gt;Are there any other topics in you would want to me to write about?&lt;/p&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>Free Resources for Designers</title>
+				<link>http://cloudcannon.com/freebies/2014/02/03/free-resources-for-designers.html</link>
+				<pubDate>Mon, 03 Feb 2014 00:00:00 -0800</pubDate>
+				<author>mike</author>
+				<guid>http://cloudcannon.com/freebies/2014/02/03/free-resources-for-designers</guid>
+				<description>&lt;p&gt;&lt;img src=&quot;/img/blog/free-templates-large.png&quot; alt=&quot;Template Screenshots&quot; /&gt;
+Today we’re releasing three completely free, high quality, responsive HTML5 templates you can use for your next website. These templates have an MIT license so you can basically use them for whatever you want and don’t need to give us any credit. &lt;/p&gt;
+
+&lt;p&gt;Giving these templates away is part of our vision to improve the life of designers. We’re working on some big ideas for CloudCannon and have more free resources in the pipeline to give you guys so keep an ear out. Let us know what you think of the templates and share them with your friends.&lt;/p&gt;
+
+&lt;p&gt;You can view the templates by creating a new website on CloudCannon or download them as a standalone from our &lt;a href=&quot;/freebies&quot;&gt;Freebies&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;p&gt;We’ve also added websockets to CloudCannon so now when you add/delete a file in your Dropbox it will update on the CloudCannon file browser the moment we see the change.&lt;/p&gt;
+
+</description>
+			</item>
+		
+			<item>
+				<title>Clients can now update feature rich websites</title>
+				<link>http://cloudcannon.com/features/2014/01/12/repeatable-regions.html</link>
+				<pubDate>Sun, 12 Jan 2014 00:00:00 -0800</pubDate>
+				<author>mike</author>
+				<guid>http://cloudcannon.com/features/2014/01/12/repeatable-regions</guid>
+				<description>&lt;p&gt;Today we’re releasing a game changing feature for CloudCannon, &lt;strong&gt;repeatable regions&lt;/strong&gt;. With a single class you can now give your clients the ability to add, move and delete a repeating element. Repeatable regions will help in a number of situations such as updating photos in a photo gallery, adding a news section or updating staff profiles. &lt;/p&gt;
+
+&lt;p&gt;All you need to do is add a class of &lt;code&gt;repeatables&lt;/code&gt; to an element in your HTML. The element’s direct children then become repeatable regions which can be updated by the client.&lt;/p&gt;
+
+&lt;p&gt;I’ll give a quick run through of how it works using a news section as an example. First, add the HTML for a single news item and then wrap it in a div with a class of &lt;code&gt;repeatables&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre class=&quot;prettyprint linenums&quot;&gt;
+&amp;lt;div class=&quot;repeatables&quot;&amp;gt;
+	&amp;lt;div class=&quot;editable&quot;&amp;gt;
+		&amp;lt;h2&amp;gt;10/01/13 - Exciting News Item!&amp;lt;/h2&amp;gt;
+		&amp;lt;p&amp;gt;Text for the news item.&amp;lt;/p&amp;gt;
+	&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;Save this and switch to the editor view. The news item now has a yellow icon at top left. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/repeatables_1.png&quot; alt=&quot;Repeatables example&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on the icon and the news item will be cloned. The HTML will now look like this:&lt;/p&gt;
+
+&lt;pre class=&quot;prettyprint linenums&quot;&gt;
+&amp;lt;div class=&quot;repeatables&quot;&amp;gt;
+	&amp;lt;div class=&quot;editable&quot;&amp;gt;
+		&amp;lt;h2&amp;gt;10/01/13 - Exciting News Item!&amp;lt;/h2&amp;gt;
+		&amp;lt;p&amp;gt;Text for the news item.&amp;lt;/p&amp;gt;
+	&amp;lt;/div&amp;gt;
+	&amp;lt;div class=&quot;editable&quot;&amp;gt;
+		&amp;lt;h2&amp;gt;10/01/13 - Exciting News Item!&amp;lt;/h2&amp;gt;
+		&amp;lt;p&amp;gt;Text for the news item.&amp;lt;/p&amp;gt;
+	&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;The editable class works with repeatable regions so the content can be updated using the normal editor. Hovering over the news items now displays arrow icons for reordering and a trash can to delete a news item. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/repeatables_2.png&quot; alt=&quot;Repeatables example #2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This feature opens up a world of possibilities for you and your client to build feature rich websites in no time at all. Try it out and let us know what you think.&lt;/p&gt;
+
+&lt;p&gt;As always, we’re here if you need any help.&lt;/p&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>New Freemium Pricing</title>
+				<link>http://cloudcannon.com/features/2013/11/08/new-freemium-pricing.html</link>
+				<pubDate>Fri, 08 Nov 2013 00:00:00 -0800</pubDate>
+				<author>mike</author>
+				<guid>http://cloudcannon.com/features/2013/11/08/new-freemium-pricing</guid>
+				<description>&lt;p&gt;We’ve restructured our pricing to make it even more affordable for designers. CloudCannon is now completely free while you’re prototyping a website, then $5 a month when you’re ready to go live. For more information head over to our &lt;a href=&quot;http://cloudcannon.com/pricing&quot;&gt;pricing page&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;We’re working on some really exciting features over the next few months and can’t wait to show you guys. You’ll be hearing from us soon.&lt;/p&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>Form Submissions and Redirects</title>
+				<link>http://cloudcannon.com/features/2013/10/21/redirects-form-submissions.html</link>
+				<pubDate>Mon, 21 Oct 2013 00:00:00 -0700</pubDate>
+				<author>mike</author>
+				<guid>http://cloudcannon.com/features/2013/10/21/redirects-form-submissions</guid>
+				<description>&lt;p&gt;Today we’re announcing &lt;strong&gt;two brand-new features&lt;/strong&gt; which will help you make &lt;strong&gt;kick-ass&lt;/strong&gt; websites.&lt;/p&gt;
+
+&lt;h3 id=&quot;form-submissions&quot;&gt;Form Submissions&lt;/h3&gt;
+&lt;p&gt;First up is form submissions. Most websites have a contact form for visitors to get in touch. Traditionally, to set up a contact form you’d either have to write a &lt;strong&gt;complicated&lt;/strong&gt; server side script or use an &lt;strong&gt;expensive&lt;/strong&gt; 3rd party service. With CloudCannon, you can set up a normal HTML form on your webpage, then when visitors submit the form the details are &lt;strong&gt;automatically&lt;/strong&gt; sent to the email addresses you specify. Seriously, now you can set up a contact form in &lt;strong&gt;under 60 seconds&lt;/strong&gt;. Have a look at our &lt;a href=&quot;/docs/#form_submissions&quot;&gt;documentation for form submissions&lt;/a&gt; for more details.&lt;/p&gt;
+
+&lt;h3 id=&quot;redirects&quot;&gt;Redirects&lt;/h3&gt;
+&lt;p&gt;We’ve also added redirects to CloudCannon. When you change the structure of your website you might want the old URLs to redirect to new pages. Now you can set this up on CloudCannon so your website doesn’t break for visitors when you start renaming files. Checkout our &lt;a href=&quot;/docs/#301_redirects&quot;&gt;documentation&lt;/a&gt; for more details on how to set this up.&lt;/p&gt;
+
+&lt;h3 id=&quot;documentation&quot;&gt;Documentation&lt;/h3&gt;
+&lt;p&gt;The documentation has been also been &lt;strong&gt;completely revamped&lt;/strong&gt; to make it easier to understand.&lt;/p&gt;
+
+&lt;p&gt;We can’t wait to see what you create.&lt;/p&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>Audio and Video Support</title>
+				<link>http://cloudcannon.com/features/2013/09/17/audio-and-video-support.html</link>
+				<pubDate>Tue, 17 Sep 2013 00:00:00 -0700</pubDate>
+				<author>mike</author>
+				<guid>http://cloudcannon.com/features/2013/09/17/audio-and-video-support</guid>
+				<description>&lt;p&gt;Video promotion is over &lt;strong&gt;6 times more effective&lt;/strong&gt; than print and online&lt;sub&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.b2bmarketing.net/blog/posts/2013/06/06/25-stats-marketers-should-know-about-video&quot;&gt;[1]&lt;/a&gt;&lt;/sub&gt; so we thought it was about time to support it on CloudCannon. We’ve always supported video hosted on YouTube and Vimeo but now you can host video and audio on your own website and have &lt;strong&gt;complete control&lt;/strong&gt; of the experience for your users. One thing to note is we treat .ogg as audio files, if you want a video .ogg file rename the extension to .ogv.&lt;/p&gt;
+
+&lt;p&gt;The file browser has also been upgraded so you can preview video, audio and font files.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/font-preview.png&quot; alt=&quot;Font Preview&quot; /&gt;&lt;/p&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>International Domain Names</title>
+				<link>http://cloudcannon.com/features/2013/09/14/international-domains.html</link>
+				<pubDate>Sat, 14 Sep 2013 00:00:00 -0700</pubDate>
+				<author>mike</author>
+				<guid>http://cloudcannon.com/features/2013/09/14/international-domains</guid>
+				<description>&lt;p&gt;It’s been a busy few weeks here at CloudCannon. We’ve just pushed a whole heap of changes you’re going to love.&lt;/p&gt;
+
+&lt;h3 id=&quot;international-domain-names&quot;&gt;International Domain Names&lt;/h3&gt;
+&lt;p&gt;First up is International Domain name support. We’ve had hundreds of designers making some amazing websites on CloudCannon using their own custom domains. Unfortunately, there have been a few designers who couldn’t use CloudCannon because we didn’t support domain names in their language. Well, fear not, those days are over. We now have full support of &lt;a href=&quot;http://en.wikipedia.org/wiki/Internationalized_domain_name&quot;&gt;IDN&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h3 id=&quot;tweaksbug-fixes&quot;&gt;Tweaks/Bug fixes&lt;/h3&gt;
+&lt;p&gt;We’re making CloudCannon better everyday, the past few weeks we’ve had a massive focus on improving the usability of the application. Now you’ll see a lot more help text and useful gestures to help you when you get stuck. If you ever get completely stuck or just want a chat, click on the question icon and the top right of the screen and send us a message. We’ll reply as soon as we can.&lt;/p&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>Brand New Editor</title>
+				<link>http://cloudcannon.com/features/2013/09/01/brand-new-editor.html</link>
+				<pubDate>Sun, 01 Sep 2013 00:00:00 -0700</pubDate>
+				<author>mike</author>
+				<guid>http://cloudcannon.com/features/2013/09/01/brand-new-editor</guid>
+				<description>&lt;p&gt;We’ve completely revamped the editor in CloudCannon to make it &lt;strong&gt;even easier&lt;/strong&gt; for your clients to update their websites on CloudCannon.&lt;/p&gt;
+
+&lt;p&gt;We found some users were struggling with the old editor especially when it came to inserting images. This didn’t sit well with us as we think &lt;strong&gt;all&lt;/strong&gt; your clients should be able to update their own website, &lt;strong&gt;even those with limited computer skills&lt;/strong&gt;. We took out the old editor and put together an editor that reaches a new level of &lt;strong&gt;simplicity and usability&lt;/strong&gt;. Have a look at the new editor, we think it’s pretty awesome.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/new_editor.png&quot; alt=&quot;New Editor&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Not only is it &lt;strong&gt;easier&lt;/strong&gt; to use but now you can add an &lt;em&gt;editable&lt;/em&gt; class to most elements (not just div’s) meaning you have much more control over what your clients can edit. Have an image you want your client to change? Just go: &lt;/p&gt;
+
+&lt;p&gt;&amp;lt;img src=”abc.jpg” class=”editable” /&amp;gt; &lt;/p&gt;
+
+&lt;p&gt;How about having your client update a heading? Try: &lt;/p&gt;
+
+&lt;p&gt;&amp;lt;h2 class=”editable”&amp;gt; Change this &amp;lt;/h2&amp;gt;. &lt;/p&gt;
+
+&lt;p&gt;You can do some really powerful things with the new editor. We’d love to hear your experiences with it.&lt;/p&gt;
+</description>
+			</item>
+		
+			<item>
+				<title>Powerful Templates</title>
+				<link>http://cloudcannon.com/features/2013/08/21/powerful-templates.html</link>
+				<pubDate>Wed, 21 Aug 2013 00:00:00 -0700</pubDate>
+				<author>mike</author>
+				<guid>http://cloudcannon.com/features/2013/08/21/powerful-templates</guid>
+				<description>&lt;p&gt;&lt;strong&gt;You guys asked for it, and here it is&lt;/strong&gt;. We’re so excited to announce the brand new templating feature in CloudCannon.&lt;/p&gt;
+
+&lt;p&gt;Making changes to the structure of your website can involve editing every single HTML page. Now you can include a file into your HTML pages making &lt;strong&gt;updating a breeze&lt;/strong&gt;. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/includes.png&quot; alt=&quot;Includes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We’ve made the syntax as simple as possible. Simply adding &lt;strong&gt;&amp;lt;!&lt;code&gt;--&lt;/code&gt; include header.html &lt;code&gt;--&lt;/code&gt;&amp;gt;&lt;/strong&gt; to an HTML page is all you need to save yourself some &lt;strong&gt;serious time&lt;/strong&gt;. See our docs for a more detailed explanation.&lt;/p&gt;
+
+&lt;p&gt;We’ve also launched a few smaller features to make &lt;strong&gt;your life easier&lt;/strong&gt;. Adding an underscore to the beginning of a file name (e.g. _header.html) makes the file inaccessible to visitors and hides it from your clients in the client editor. This is great if you have templating files lying around you don’t want anyone to see.&lt;/p&gt;
+
+&lt;p&gt;Highlighting the current page is much more &lt;strong&gt;straightforward&lt;/strong&gt;. CloudCannon automatically adds a class of &lt;em&gt;cc-active&lt;/em&gt; to any &lt;strong&gt;&amp;lt;a&amp;gt;&lt;/strong&gt; tags which point to the current page. Using some CSS and the &lt;em&gt;cc-active&lt;/em&gt; class you can highlight the active page (Especially useful when you’re using includes).&lt;/p&gt;
+</description>
+			</item>
+		
+	</channel>
+</rss>
